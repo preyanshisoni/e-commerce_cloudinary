@@ -1,0 +1,17 @@
+.forgot-password-container {
+    background-color: #f9f9f9;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .forgot-password-container .MuiTypography-h5 {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .forgot-password-container .MuiButton-contained {
+    background-color: #4F62FE;
+  }
+  

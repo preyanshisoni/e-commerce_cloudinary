@@ -1,0 +1,156 @@
+
+   @keyframes slideDown {
+    0% {
+      transform: translateY(-100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes slideUp {
+    0% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    100% {
+      transform: translateY(-100%);
+      opacity: 0;
+    }
+  }
+  
+  .navbar {
+    justify-content: space-between;
+    align-items: center;
+    animation: slideDown 0.7s forwards; 
+  }
+  
+  .navbar-hidden {
+    opacity: 0;
+    pointer-events: none;
+    animation: slideUp 0.7s forwards;
+
+  }
+  
+.nav-link {
+  text-decoration: none;
+  color: #333;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.nav-link:hover {
+  color: #4f62fe;
+}
+
+
+.navbar-icons {
+  display: flex;
+  align-items: center;
+}
+
+.fa {
+  font-size: 20px;
+  color: #333;
+  cursor: pointer;
+}
+
+.fa:hover {
+  color: #4f62fe;
+}
+
+.search-bar {
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 14px;
+  width: 300px;
+}
+
+.main-div-product {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /* padding: 10px 19px; */
+  /* border: 2px solid red; */
+}
+
+.products-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 10px;
+  max-width: 375px;
+  height: 430px;
+  
+
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.img-card {
+  width: 230px;
+  height: 240px;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.img-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.blurred-image {
+  filter: blur(1px);
+}
+
+.more-icon {
+  position: absolute;
+  top: 8px;
+
+  /* right: 8px; */
+  color: black;
+  z-index: 3;
+  cursor: pointer;
+}
+
+
+.hover-div {
+  
+  display: flex;
+  /* align-items: flex-start; */
+  /* justify-content: left; */
+  margin-top: 18px;
+  background-color: #f7f7fc;
+
+  border-radius: 10px;
+
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.categories-container {
+  width: 100%;
+  flex-direction: column;
+}
+
+.pagination{
+  
+  position: absolute;
+  left:75vw;
+  width:23%;
+  
+  
+  
+
+}

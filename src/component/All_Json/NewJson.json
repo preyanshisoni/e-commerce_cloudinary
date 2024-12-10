@@ -1,0 +1,4858 @@
+[
+  {
+    "name": "Top Wear",
+    "section": "men",
+    "sectionId": 1,
+
+    "subcategories": [
+      {
+        "name": "T-Shirts",
+        "subId": 1,
+        "products": [
+          {
+            "name": "Striped T-Shirt",
+            "description": "Classic striped t-shirt for a casual vibe.",
+            "price": 599.99,
+            "brand": "Adidas",
+            "inStock": true,
+            "images": "https://godfrey.co.in/wp-content/uploads/2024/01/GMT2159FL-6-2.webp"
+          },
+          {
+            "name": "Casual T-Shirt",
+            "description": "Perfect for daily wear.",
+            "price": 499.99,
+            "brand": "Nike",
+            "inStock": true,
+            "images": "https://5.imimg.com/data5/SELLER/Default/2023/5/305369158/WP/JM/UV/102736043/men-casual-t-shirts-500x500.jpg"
+          },
+          {
+            "name": "Graphic T-Shirt",
+            "description": "Trendy graphic t-shirt for a cool look.",
+            "price": 450.99,
+            "brand": "Puma",
+            "inStock": true,
+            "images": "https://cdn.pixelspray.io/v2/black-bread-289bfa/woTKH5/wrkr/t.resize(h:1000,w:820)/data/Superdry/24082023img/410381099006_6.jpg"
+          },
+          {
+            "name": "V-Neck T-Shirt",
+            "description": "Stylish V-neck for casual outings.",
+            "price": 350.5,
+            "brand": "Reebok",
+            "inStock": true,
+            "images": "https://www.xtees.com/uploads/products/images/primary/red-plain-v-neck-t-shirt_1611817312.jpg"
+          },
+          {
+            "name": "Round Neck T-Shirt",
+            "description": "Simple yet classy round-neck.",
+            "price": 400.99,
+            "brand": "H&M",
+            "inStock": true,
+            "images": "https://www.xtees.com/uploads/products/images/primary/red-plain-v-neck-t-shirt_1611817312.jpg"
+          },
+          {
+            "name": "Sleeveless T-Shirt",
+            "description": "Comfortable sleeveless t-shirt.",
+            "price": 299.99,
+            "brand": "Zara",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/51TgIabeeJL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Polo T-Shirt",
+            "description": "Elegant polo for semi-casual occasions.",
+            "price": 550.75,
+            "brand": "Lacoste",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/71h4Mc-MJUL.__AC_SY445_SX342_QL70_FMwebp_.jpg"
+          },
+          {
+            "name": "Sporty T-Shirt",
+            "description": "Sporty and breathable.",
+            "price": 375.25,
+            "brand": "Under Armour",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Cotton T-Shirt",
+            "description": "Soft cotton fabric.",
+            "price": 450,
+            "brand": "Uniqlo",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Muscle Fit T-Shirt",
+            "description": "Designed for a great fit.",
+            "price": 325.5,
+            "brand": "GymShark",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Henley T-Shirt",
+            "description": "Stylish Henley for casual wear.",
+            "price": 475,
+            "brand": "Old Navy",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Long Sleeve T-Shirt",
+            "description": "Perfect for light winters.",
+            "price": 550,
+            "brand": "Abercrombie & Fitch",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Raglan T-Shirt",
+            "description": "Trendy raglan sleeves.",
+            "price": 325,
+            "brand": "American Eagle",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Basic T-Shirt",
+            "description": "Everyday casual wear.",
+            "price": 299.99,
+            "brand": "Gap",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Oversized T-Shirt",
+            "description": "Comfortable oversized t-shirt.",
+            "price": 600,
+            "brand": "Balenciaga",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Slub T-Shirt",
+            "description": "Unique slub texture for a casual look.",
+            "price": 420.5,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Crew Neck T-Shirt",
+            "description": "Classic crew-neck style.",
+            "price": 350.75,
+            "brand": "Tommy Hilfiger",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Performance T-Shirt",
+            "description": "Designed for sports activities.",
+            "price": 375.25,
+            "brand": "New Balance",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Dry Fit T-Shirt",
+            "description": "Moisture-wicking fabric.",
+            "price": 400.5,
+            "brand": "Decathlon",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Tie-Dye T-Shirt",
+            "description": "Cool tie-dye pattern.",
+            "price": 599.99,
+            "brand": "Urban Outfitters",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          }
+        ]
+      },
+      {
+        "name": "Shirts",
+        "subId": 2,
+        "products": [
+          {
+            "name": "Formal Shirt",
+            "description": "Elegant formal shirt.",
+            "price": 799.99,
+            "brand": "Arrow",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Casual Shirt",
+            "description": "Comfortable casual shirt for outings.",
+            "price": 699.99,
+            "brand": "U.S. Polo",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Linen Shirt",
+            "description": "Breathable linen fabric for comfort.",
+            "price": 850,
+            "brand": "Zara",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Oxford Shirt",
+            "description": "Classic oxford style for formal occasions.",
+            "price": 950.5,
+            "brand": "Brooks Brothers",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Flannel Shirt",
+            "description": "Cozy flannel for cold weather.",
+            "price": 650.25,
+            "brand": "LL Bean",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Denim Shirt",
+            "description": "Trendy denim look.",
+            "price": 749.99,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Chambray Shirt",
+            "description": "Lightweight and stylish.",
+            "price": 725.5,
+            "brand": "Gap",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Slim Fit Shirt",
+            "description": "Modern slim fit design.",
+            "price": 799.99,
+            "brand": "Hugo Boss",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Button-Down Shirt",
+            "description": "Classic button-down collar.",
+            "price": 899.99,
+            "brand": "Ralph Lauren",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Checkered Shirt",
+            "description": "Checkered pattern for casual wear.",
+            "price": 600,
+            "brand": "Abercrombie & Fitch",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Striped Shirt",
+            "description": "Vertical stripes for a trendy look.",
+            "price": 850,
+            "brand": "Tommy Hilfiger",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          },
+          {
+            "name": "Plaid Shirt",
+            "description": "Plaid pattern for a rugged look.",
+            "price": 725,
+            "brand": "American Eagle",
+            "inStock": true,
+            "images": "https://link-to-image.com"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Bottom Wear",
+    "section": "men",
+    "sectionId": 1,
+
+    "subcategories": [
+      {
+        "name": "Jeans",
+        "subId": 3,
+        "products": [
+          {
+            "name": "Slim Fit Jeans",
+            "description": "Trendy slim fit jeans for a sleek look.",
+            "price": 899.99,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com"
+          },
+          {
+            "name": "Regular Fit Jeans",
+            "description": "Comfortable and versatile regular fit jeans.",
+            "price": 799.99,
+            "brand": "Wrangler",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com"
+          },
+          {
+            "name": "Skinny Jeans",
+            "description": "Stylish skinny jeans with a modern look.",
+            "price": 749.99,
+            "brand": "H&M",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/3"
+          },
+          {
+            "name": "Bootcut Jeans",
+            "description": "Classic bootcut jeans for a timeless fit.",
+            "price": 899.99,
+            "brand": "Lee",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/4"
+          },
+          {
+            "name": "Wide Leg Jeans",
+            "description": "Comfortable wide-leg jeans for a relaxed style.",
+            "price": 899.99,
+            "brand": "Zara",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/5"
+          },
+          {
+            "name": "Distressed Jeans",
+            "description": "Fashionable distressed jeans for a rugged look.",
+            "price": 799.99,
+            "brand": "Forever 21",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/6"
+          },
+          {
+            "name": "High-Waisted Jeans",
+            "description": "Chic high-waisted jeans for a stylish silhouette.",
+            "price": 849.99,
+            "brand": "Mango",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/7"
+          },
+          {
+            "name": "Mom Jeans",
+            "description": "Casual mom jeans for a vintage vibe.",
+            "price": 799.99,
+            "brand": "Pull&Bear",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/8"
+          },
+          {
+            "name": "Cargo Jeans",
+            "description": "Durable cargo jeans with functional pockets.",
+            "price": 899.99,
+            "brand": "Puma",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/9"
+          },
+          {
+            "name": "Tapered Jeans",
+            "description": "Versatile tapered jeans for a clean look.",
+            "price": 849.99,
+            "brand": "Adidas",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/10"
+          },
+          {
+            "name": "Flared Jeans",
+            "description": "Retro flared jeans for a stylish throwback.",
+            "price": 799.99,
+            "brand": "Gap",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/11"
+          },
+          {
+            "name": "Stretch Jeans",
+            "description": "Comfortable stretch jeans for all-day wear.",
+            "price": 849.99,
+            "brand": "Old Navy",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/12"
+          },
+          {
+            "name": "Chino Jeans",
+            "description": "Stylish chino jeans for a polished look.",
+            "price": 799.99,
+            "brand": "Uniqlo",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/13"
+          },
+          {
+            "name": "Retro Jeans",
+            "description": "Classic retro jeans for a nostalgic feel.",
+            "price": 749.99,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/14"
+          },
+          {
+            "name": "Raw Denim Jeans",
+            "description": "Authentic raw denim jeans for true denim lovers.",
+            "price": 999.99,
+            "brand": "Nudie Jeans",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/15"
+          },
+          {
+            "name": "Patchwork Jeans",
+            "description": "Unique patchwork jeans for a creative look.",
+            "price": 849.99,
+            "brand": "ASOS",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/16"
+          },
+          {
+            "name": "Printed Jeans",
+            "description": "Fashion-forward printed jeans for a bold style.",
+            "price": 799.99,
+            "brand": "Topshop",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/17"
+          },
+          {
+            "name": "Lounge Jeans",
+            "description": "Comfortable lounge jeans for a laid-back vibe.",
+            "price": 699.99,
+            "brand": "American Eagle",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/18"
+          },
+          {
+            "name": "Jeggings",
+            "description": "Super stretchy jeggings for ultimate comfort.",
+            "price": 699.99,
+            "brand": "Boohoo",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/19"
+          },
+          {
+            "name": "Sustainable Jeans",
+            "description": "Eco-friendly jeans made from recycled materials.",
+            "price": 899.99,
+            "brand": "Everlane",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/20"
+          }
+        ]
+      },
+      {
+        "name": "Shorts",
+        "section": "men",
+        "sectionId": 1,
+        "subId": 4,
+        "products": [
+          {
+            "name": "Cargo Shorts",
+            "description": "Durable cargo shorts with multiple pockets.",
+            "price": 499.99,
+            "brand": "Puma",
+            "inStock": true,
+            "images": "https://link-to-shorts-image.com"
+          },
+          {
+            "name": "Sports Shorts",
+            "description": "Comfortable shorts for athletic activities.",
+            "price": 399.99,
+            "brand": "Reebok",
+            "inStock": true,
+            "images": "https://link-to-shorts-image.com"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Accessories",
+    "section": "men",
+    "sectionId": 1,
+    "subcategories": [
+      {
+        "name": "Watches",
+        "subId": 5,
+        "products": [
+          {
+            "name": "Analog Watch",
+            "description": "Classic analog watch with a leather strap.",
+            "price": 1999.99,
+            "brand": "Fastrack",
+            "inStock": true,
+            "images": "https://example.com/images/analog-watch.jpg"
+          },
+          {
+            "name": "Digital Watch",
+            "description": "Stylish digital watch for everyday use.",
+            "price": 1499.99,
+            "brand": "Casio",
+            "inStock": true,
+            "images": "https://example.com/images/digital-watch.jpg"
+          },
+          {
+            "name": "Smart Watch",
+            "description": "Feature-packed smartwatch with health tracking.",
+            "price": 5999.99,
+            "brand": "Apple",
+            "inStock": true,
+            "images": "https://example.com/images/smart-watch.jpg"
+          },
+          {
+            "name": "Chronograph Watch",
+            "description": "Elegant chronograph watch with a stainless steel band.",
+            "price": 2999.99,
+            "brand": "Titan",
+            "inStock": true,
+            "images": "https://example.com/images/chronograph-watch.jpg"
+          },
+          {
+            "name": "Leather Strap Watch",
+            "description": "Stylish leather strap watch with a minimalist design.",
+            "price": 2499.99,
+            "brand": "Fossil",
+            "inStock": true,
+            "images": "https://example.com/images/leather-strap-watch.jpg"
+          },
+          {
+            "name": "Sports Watch",
+            "description": "Durable sports watch with water resistance.",
+            "price": 3499.99,
+            "brand": "Garmin",
+            "inStock": true,
+            "images": "https://example.com/images/sports-watch.jpg"
+          },
+          {
+            "name": "Fashion Watch",
+            "description": "Trendy fashion watch with a unique design.",
+            "price": 1799.99,
+            "brand": "Michael Kors",
+            "inStock": true,
+            "images": "https://example.com/images/fashion-watch.jpg"
+          },
+          {
+            "name": "Dive Watch",
+            "description": "Robust dive watch for underwater adventures.",
+            "price": 4999.99,
+            "brand": "Seiko",
+            "inStock": true,
+            "images": "https://example.com/images/dive-watch.jpg"
+          },
+          {
+            "name": "Smart Fitness Watch",
+            "description": "Fitness-focused smartwatch with heart rate monitor.",
+            "price": 3999.99,
+            "brand": "Samsung",
+            "inStock": true,
+            "images": "https://example.com/images/smart-fitness-watch.jpg"
+          },
+          {
+            "name": "Luxury Watch",
+            "description": "Exquisite luxury watch with diamond accents.",
+            "price": 14999.99,
+            "brand": "Rolex",
+            "inStock": true,
+            "images": "https://example.com/images/luxury-watch.jpg"
+          }
+        ]
+      },
+
+      {
+        "name": "Belt",
+        "section": "men",
+        "sectionId": 1,
+        "subId": 6,
+        "products": [
+          {
+            "name": "Leather Belt",
+            "description": "Classic leather belt in a variety of styles and colors.",
+            "price": 99.99,
+            "brand": "Calvin Klein",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/leather"
+          },
+          {
+            "name": "Braided Belt",
+            "description": "Stylish braided belt for a casual look.",
+            "price": 79.99,
+            "brand": "Tommy Hilfiger",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/braided"
+          },
+          {
+            "name": "Dress Belt",
+            "description": "Formal dress belt for suits and dress pants.",
+            "price": 129.99,
+            "brand": "Armani Exchange",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/dress"
+          },
+          {
+            "name": "Casual Belt",
+            "description": "Everyday casual belt for jeans and shorts.",
+            "price": 69.99,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/casual"
+          },
+          {
+            "name": "Belt with Buckle",
+            "description": "Belt with a stylish and unique buckle.",
+            "price": 89.99,
+            "brand": "Gucci",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/buckle"
+          },
+          {
+            "name": "Leather Braided Belt",
+            "description": "Combination of leather and braided elements for a stylish look.",
+            "price": 119.99,
+            "brand": "Coach",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/leather-braided"
+          },
+          {
+            "name": "Reversible Belt",
+            "description": "Belt with two reversible sides for a versatile look.",
+            "price": 99.99,
+            "brand": "Polo Ralph Lauren",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/reversible"
+          },
+          {
+            "name": "Belt with Metal Inlay",
+            "description": "Belt with metal accents for a modern look.",
+            "price": 129.99,
+            "brand": "Hugo Boss",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/metal-inlay"
+          },
+          {
+            "name": "Wide Belt",
+            "description": "Wide belt for a statement piece.",
+            "price": 149.99,
+            "brand": "Alexander McQueen",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/wide"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Top Wear",
+    "section": "women",
+    "sectionId": 2,
+    "subcategories": [
+      {
+        "name": "Tops",
+        "subId": 7,
+
+        "products": [
+          {
+            "name": "Floral Printed top ",
+            "description": "Beautiful floral print top for a chic look.",
+            "price": 699.99,
+            "brand": "Zara",
+            "inStock": true,
+            "images": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/24808950/2023/9/4/de9604c3-f0b8-4f8d-aab9-82e83986d6fa1693851789117Tops1.jpg"
+          },
+          {
+            "name": "Chiffon Ruffle Top",
+            "description": "Elegant chiffon top with ruffle detailing.",
+            "price": 799.99,
+            "brand": "H&M",
+            "inStock": true,
+            "images": "https://images-cdn.ubuy.co.in/634fc80dad10411de010dd6e-chigant-women-39-s-ruffle-sleeve.jpg"
+          },
+          {
+            "name": "Off-Shoulder Top",
+            "description": "Trendy off-shoulder top for a casual outing.",
+            "price": 650.99,
+            "brand": "Forever 21",
+            "inStock": true,
+            "images": "https://5.imimg.com/data5/SELLER/Default/2023/8/337808992/VG/WA/KW/8062019/ort1039d-500x500.jpg"
+          },
+          {
+            "name": "Lace Detail Top",
+            "description": "Soft cotton top with delicate lace details.",
+            "price": 750.5,
+            "brand": "Mango",
+            "inStock": true,
+            "images": "https://images.bestsellerclothing.in/data/vero-moda/21-mar-2024/259169101_g1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto&dpr=1.2"
+          },
+          {
+            "name": "Peplum Top",
+            "description": "Stylish peplum top for a modern look.",
+            "price": 599.99,
+            "brand": "Marks & Spencer",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61rVuYZj-JL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "V-Neck Wrap Top",
+            "description": "Feminine V-neck wrap top for special occasions.",
+            "price": 849.99,
+            "brand": "Guess",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61wfTAgz-uL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Satin Cami Top",
+            "description": "Luxurious satin cami top for a night out.",
+            "price": 899.75,
+            "brand": "Victoria's Secret",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61NaiuPfiGL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Puff Sleeve Top",
+            "description": "Trendy puff sleeves for a bold statement.",
+            "price": 725.25,
+            "brand": "ASOS",
+            "inStock": true,
+            "images": "https://www.jiomart.com/images/product/original/rvp6bwxqsi/moomaya-women-s-short-puff-sleeves-peplum-top-v-neck-cotton-crop-top-product-images-rvp6bwxqsi-0-202309081440.jpg?im=Resize=(500,630)"
+          },
+          {
+            "name": "Knitted Crop Top",
+            "description": "Comfortable and stylish knitted crop top.",
+            "price": 499.99,
+            "brand": "Uniqlo",
+            "inStock": true,
+            "images": "https://assets.ajio.com/medias/sys_master/root/20220927/Cm7H/63331611f997dd1f8d201f98/-473Wx593H-469307371-green-MODEL.jpg"
+          },
+          {
+            "name": "Tie-Front Blouse",
+            "description": "Casual blouse with tie-front detailing.",
+            "price": 650.5,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61ZfGuFEXwL._AC_UL480_FMwebp_QL65_.jpg"
+          }
+        ]
+      },
+
+      {
+        "name": "Dresses",
+        "section": "women",
+        "sectionId": 2,
+        "subId": 8,
+        "products": [
+          {
+            "name": "Floral Maxi Dress",
+            "description": "Flowy floral maxi dress perfect for summer outings.",
+            "price": 1299.99,
+            "brand": "Zara",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/71jw7R-Xu0L._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Bodycon Dress",
+            "description": "Chic bodycon dress that hugs your curves.",
+            "price": 1499.99,
+            "brand": "Forever 21",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61hUoa3cyLL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "A-Line Midi Dress",
+            "description": "Elegant A-line midi dress for casual or formal wear.",
+            "price": 1150.75,
+            "brand": "H&M",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/71-vMo+zXTL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Off-Shoulder Cocktail Dress",
+            "description": "Perfect off-shoulder cocktail dress for special events.",
+            "price": 1799.5,
+            "brand": "Mango",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61Imgl-lTiL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Pleated Wrap Dress",
+            "description": "Stylish pleated wrap dress for a flattering fit.",
+            "price": 1350.99,
+            "brand": "Marks & Spencer",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/71ZsXeXjSFL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Satin Slip Dress",
+            "description": "Luxurious satin slip dress for a sleek evening look.",
+            "price": 1600.75,
+            "brand": "Guess",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61Wkj1TO0EL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Polka Dot Sundress",
+            "description": "Cute polka dot sundress perfect for a day out.",
+            "price": 1250.25,
+            "brand": "ASOS",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61TRKsa-6QL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Fit and Flare Dress",
+            "description": "A classic fit and flare silhouette that flatters any body type.",
+            "price": 1450.5,
+            "brand": "Victoria's Secret",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61AJk+dMiKL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Sheath Dress",
+            "description": "Elegant sheath dress for formal occasions.",
+            "price": 1399.99,
+            "brand": "Uniqlo",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/51FfD82Gm7L._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Tiered Ruffle Dress",
+            "description": "Fun and flirty tiered ruffle dress for a playful look.",
+            "price": 1550.75,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61pPz7FPhML._AC_UL480_FMwebp_QL65_.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Jumpsuits",
+        "section": "women",
+        "sectionId": 2,
+        "subId": 9,
+
+        "products": [
+          {
+            "name": "Sleeveless Denim Jumpsuit",
+            "description": "A stylish denim jumpsuit with a sleeveless design.",
+            "price": 1899.99,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61WtTZAkfFL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Wide-Leg Jumpsuit",
+            "description": "Comfortable wide-leg jumpsuit for casual outings.",
+            "price": 2100.5,
+            "brand": "Zara",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/71YmgfjyoDL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Formal Belted Jumpsuit",
+            "description": "A chic belted jumpsuit ideal for formal events.",
+            "price": 2399.75,
+            "brand": "Mango",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/81sSRoMvFBL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Off-Shoulder Jumpsuit",
+            "description": "Trendy off-shoulder jumpsuit for an elegant look.",
+            "price": 1999.99,
+            "brand": "Forever 21",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61cyoyx5ZzL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Utility Jumpsuit",
+            "description": "A practical and stylish utility jumpsuit for everyday wear.",
+            "price": 1750.25,
+            "brand": "H&M",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/71DbZxFHZ9L._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Floral Print Jumpsuit",
+            "description": "A cute floral print jumpsuit perfect for summer.",
+            "price": 1600.75,
+            "brand": "ASOS",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/81eD1AEJqaL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "One-Shoulder Jumpsuit",
+            "description": "Elegant one-shoulder jumpsuit for special occasions.",
+            "price": 2250.99,
+            "brand": "Guess",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61lvL76WKmL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Striped Jumpsuit",
+            "description": "A trendy striped jumpsuit with a flattering fit.",
+            "price": 1800.5,
+            "brand": "Victoria's Secret",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/71DqRV53huL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Linen Jumpsuit",
+            "description": "Breathable linen jumpsuit for casual or formal wear.",
+            "price": 1950.99,
+            "brand": "Uniqlo",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/71hxRNmO-hL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "name": "Pleated Palazzo Jumpsuit",
+            "description": "Wide-legged palazzo jumpsuit with pleats for added elegance.",
+            "price": 2450.25,
+            "brand": "Marks & Spencer",
+            "inStock": true,
+            "images": "https://m.media-amazon.com/images/I/61XG1vLgEOL._AC_UL480_FMwebp_QL65_.jpg"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Bottom Wear",
+    "section": "women",
+    "sectionId": 2,
+
+    "subcategories": [
+      {
+        "name": "Jeans",
+        "subId": 10,
+        "products": [
+          {
+            "name": "Slim Fit Jeans",
+            "description": "Trendy slim fit jeans for a sleek look.",
+            "price": 899.99,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com"
+          },
+          {
+            "name": "Regular Fit Jeans",
+            "description": "Comfortable and versatile regular fit jeans.",
+            "price": 799.99,
+            "brand": "Wrangler",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com"
+          },
+          {
+            "name": "Skinny Jeans",
+            "description": "Stylish skinny jeans with a modern look.",
+            "price": 749.99,
+            "brand": "H&M",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/3"
+          },
+          {
+            "name": "Bootcut Jeans",
+            "description": "Classic bootcut jeans for a timeless fit.",
+            "price": 899.99,
+            "brand": "Lee",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/4"
+          },
+          {
+            "name": "Wide Leg Jeans",
+            "description": "Comfortable wide-leg jeans for a relaxed style.",
+            "price": 899.99,
+            "brand": "Zara",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/5"
+          },
+          {
+            "name": "Distressed Jeans",
+            "description": "Fashionable distressed jeans for a rugged look.",
+            "price": 799.99,
+            "brand": "Forever 21",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/6"
+          },
+          {
+            "name": "High-Waisted Jeans",
+            "description": "Chic high-waisted jeans for a stylish silhouette.",
+            "price": 849.99,
+            "brand": "Mango",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/7"
+          },
+          {
+            "name": "Mom Jeans",
+            "description": "Casual mom jeans for a vintage vibe.",
+            "price": 799.99,
+            "brand": "Pull&Bear",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/8"
+          },
+          {
+            "name": "Cargo Jeans",
+            "description": "Durable cargo jeans with functional pockets.",
+            "price": 899.99,
+            "brand": "Puma",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/9"
+          },
+          {
+            "name": "Tapered Jeans",
+            "description": "Versatile tapered jeans for a clean look.",
+            "price": 849.99,
+            "brand": "Adidas",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/10"
+          },
+          {
+            "name": "Flared Jeans",
+            "description": "Retro flared jeans for a stylish throwback.",
+            "price": 799.99,
+            "brand": "Gap",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/11"
+          },
+          {
+            "name": "Stretch Jeans",
+            "description": "Comfortable stretch jeans for all-day wear.",
+            "price": 849.99,
+            "brand": "Old Navy",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/12"
+          },
+          {
+            "name": "Chino Jeans",
+            "description": "Stylish chino jeans for a polished look.",
+            "price": 799.99,
+            "brand": "Uniqlo",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/13"
+          },
+          {
+            "name": "Retro Jeans",
+            "description": "Classic retro jeans for a nostalgic feel.",
+            "price": 749.99,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/14"
+          },
+          {
+            "name": "Raw Denim Jeans",
+            "description": "Authentic raw denim jeans for true denim lovers.",
+            "price": 999.99,
+            "brand": "Nudie Jeans",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/15"
+          },
+          {
+            "name": "Patchwork Jeans",
+            "description": "Unique patchwork jeans for a creative look.",
+            "price": 849.99,
+            "brand": "ASOS",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/16"
+          },
+          {
+            "name": "Printed Jeans",
+            "description": "Fashion-forward printed jeans for a bold style.",
+            "price": 799.99,
+            "brand": "Topshop",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/17"
+          },
+          {
+            "name": "Lounge Jeans",
+            "description": "Comfortable lounge jeans for a laid-back vibe.",
+            "price": 699.99,
+            "brand": "American Eagle",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/18"
+          },
+          {
+            "name": "Jeggings",
+            "description": "Super stretchy jeggings for ultimate comfort.",
+            "price": 699.99,
+            "brand": "Boohoo",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/19"
+          },
+          {
+            "name": "Sustainable Jeans",
+            "description": "Eco-friendly jeans made from recycled materials.",
+            "price": 899.99,
+            "brand": "Everlane",
+            "inStock": true,
+            "images": "https://link-to-jeans-image.com/20"
+          }
+        ]
+      },
+      {
+        "name": "Shorts",
+        "section": "women",
+        "sectionId": 2,
+        "subId": 11,
+        "products": [
+          {
+            "name": "Cargo Shorts",
+            "description": "Durable cargo shorts with multiple pockets.",
+            "price": 499.99,
+            "brand": "Puma",
+            "inStock": true,
+            "images": "https://link-to-shorts-image.com"
+          },
+          {
+            "name": "Sports Shorts",
+            "description": "Comfortable shorts for athletic activities.",
+            "price": 399.99,
+            "brand": "Reebok",
+            "inStock": true,
+            "images": "https://link-to-shorts-image.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Accessories",
+    "section": "women",
+    "sectionId": 2,
+    "subcategories": [
+      {
+        "name": "Watches",
+        "subId": 12,
+        "products": [
+          {
+            "name": "Analog Watch",
+            "description": "Classic analog watch with a leather strap.",
+            "price": 1999.99,
+            "brand": "Fastrack",
+            "inStock": true,
+            "images": "https://example.com/images/analog-watch.jpg"
+          },
+          {
+            "name": "Digital Watch",
+            "description": "Stylish digital watch for everyday use.",
+            "price": 1499.99,
+            "brand": "Casio",
+            "inStock": true,
+            "images": "https://example.com/images/digital-watch.jpg"
+          },
+          {
+            "name": "Smart Watch",
+            "description": "Feature-packed smartwatch with health tracking.",
+            "price": 5999.99,
+            "brand": "Apple",
+            "inStock": true,
+            "images": "https://example.com/images/smart-watch.jpg"
+          },
+          {
+            "name": "Chronograph Watch",
+            "description": "Elegant chronograph watch with a stainless steel band.",
+            "price": 2999.99,
+            "brand": "Titan",
+            "inStock": true,
+            "images": "https://example.com/images/chronograph-watch.jpg"
+          },
+          {
+            "name": "Leather Strap Watch",
+            "description": "Stylish leather strap watch with a minimalist design.",
+            "price": 2499.99,
+            "brand": "Fossil",
+            "inStock": true,
+            "images": "https://example.com/images/leather-strap-watch.jpg"
+          },
+          {
+            "name": "Sports Watch",
+            "description": "Durable sports watch with water resistance.",
+            "price": 3499.99,
+            "brand": "Garmin",
+            "inStock": true,
+            "images": "https://example.com/images/sports-watch.jpg"
+          },
+          {
+            "name": "Fashion Watch",
+            "description": "Trendy fashion watch with a unique design.",
+            "price": 1799.99,
+            "brand": "Michael Kors",
+            "inStock": true,
+            "images": "https://example.com/images/fashion-watch.jpg"
+          },
+          {
+            "name": "Dive Watch",
+            "description": "Robust dive watch for underwater adventures.",
+            "price": 4999.99,
+            "brand": "Seiko",
+            "inStock": true,
+            "images": "https://example.com/images/dive-watch.jpg"
+          },
+          {
+            "name": "Smart Fitness Watch",
+            "description": "Fitness-focused smartwatch with heart rate monitor.",
+            "price": 3999.99,
+            "brand": "Samsung",
+            "inStock": true,
+            "images": "https://example.com/images/smart-fitness-watch.jpg"
+          },
+          {
+            "name": "Luxury Watch",
+            "description": "Exquisite luxury watch with diamond accents.",
+            "price": 14999.99,
+            "brand": "Rolex",
+            "inStock": true,
+            "images": "https://example.com/images/luxury-watch.jpg"
+          }
+        ]
+      },
+
+      {
+        "name": "Belt",
+        "section": "women",
+        "sectionId": 2,
+        "subId": 13,
+        "products": [
+          {
+            "name": "Leather Belt",
+            "description": "Classic leather belt in a variety of styles and colors.",
+            "price": 99.99,
+            "brand": "Calvin Klein",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/leather"
+          },
+          {
+            "name": "Braided Belt",
+            "description": "Stylish braided belt for a casual look.",
+            "price": 79.99,
+            "brand": "Tommy Hilfiger",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/braided"
+          },
+          {
+            "name": "Dress Belt",
+            "description": "Formal dress belt for suits and dress pants.",
+            "price": 129.99,
+            "brand": "Armani Exchange",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/dress"
+          },
+          {
+            "name": "Casual Belt",
+            "description": "Everyday casual belt for jeans and shorts.",
+            "price": 69.99,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/casual"
+          },
+          {
+            "name": "Belt with Buckle",
+            "description": "Belt with a stylish and unique buckle.",
+            "price": 89.99,
+            "brand": "Gucci",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/buckle"
+          },
+          {
+            "name": "Leather Braided Belt",
+            "description": "Combination of leather and braided elements for a stylish look.",
+            "price": 119.99,
+            "brand": "Coach",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/leather-braided"
+          },
+          {
+            "name": "Reversible Belt",
+            "description": "Belt with two reversible sides for a versatile look.",
+            "price": 99.99,
+            "brand": "Polo Ralph Lauren",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/reversible"
+          },
+          {
+            "name": "Belt with Metal Inlay",
+            "description": "Belt with metal accents for a modern look.",
+            "price": 129.99,
+            "brand": "Hugo Boss",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/metal-inlay"
+          },
+          {
+            "name": "Wide Belt",
+            "description": "Wide belt for a statement piece.",
+            "price": 149.99,
+            "brand": "Alexander McQueen",
+            "inStock": true,
+            "images": "https://placeholder.com/200x200/belts/wide"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Clothes",
+    "section": "kids",
+    "sectionId": 3,
+
+    "subcategories": [
+      {
+        "name": "Dresses",
+        "subId": 14,
+
+        "products": [
+          {
+            "name": "Kids Floral Dress",
+            "description": "Beautiful floral dress perfect for summer outings.",
+            "price": 799.99,
+            "brand": "H&M",
+            "inStock": true,
+            "images": "https://link-to-image.com/floral-dress"
+          },
+          {
+            "name": "Boys Denim Overalls",
+            "description": "Classic denim overalls for boys, perfect for casual wear.",
+            "price": 899.99,
+            "brand": "Levi's",
+            "inStock": true,
+            "images": "https://link-to-image.com/denim-overalls"
+          },
+          {
+            "name": "Girls Ruffle Sleeve Dress",
+            "description": "Cute ruffle sleeve dress for girls, great for special occasions.",
+            "price": 699.99,
+            "brand": "Carter's",
+            "inStock": true,
+            "images": "https://link-to-image.com/ruffle-dress"
+          },
+          {
+            "name": "Boys Polo T-Shirt",
+            "description": "Smart polo t-shirt for boys, perfect for outings.",
+            "price": 499.99,
+            "brand": "Ralph Lauren",
+            "inStock": true,
+            "images": "https://link-to-image.com/boys-polo"
+          },
+          {
+            "name": "Girls Embroidered Dress",
+            "description": "Elegant dress with delicate embroidery details.",
+            "price": 850.99,
+            "brand": "Zara Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/embroidered-dress"
+          },
+          {
+            "name": "Boys Printed T-Shirt",
+            "description": "Fun printed t-shirt for boys, featuring playful designs.",
+            "price": 349.99,
+            "brand": "Nike Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/boys-printed-tee"
+          },
+          {
+            "name": "Girls Party Dress",
+            "description": "Stylish party dress for girls, ideal for celebrations.",
+            "price": 999.99,
+            "brand": "Little Marc Jacobs",
+            "inStock": true,
+            "images": "https://link-to-image.com/girls-party-dress"
+          },
+          {
+            "name": "Boys Cargo Shorts",
+            "description": "Comfortable cargo shorts for boys, great for outdoor activities.",
+            "price": 450.75,
+            "brand": "Old Navy Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/boys-cargo-shorts"
+          },
+          {
+            "name": "Girls Cotton Tunic",
+            "description": "Soft cotton tunic for girls, perfect for everyday wear.",
+            "price": 550.99,
+            "brand": "Gap Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/girls-tunic"
+          },
+          {
+            "name": "Boys Hoodie",
+            "description": "Warm and cozy hoodie for boys, ideal for cooler days.",
+            "price": 750,
+            "brand": "Adidas Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/boys-hoodie"
+          },
+          {
+            "name": "Girls Sleeveless Romper",
+            "description": "Comfortable romper with a cute design for summer.",
+            "price": 650.5,
+            "brand": "Uniqlo Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/girls-romper"
+          },
+          {
+            "name": "Boys Swim Trunks",
+            "description": "Bright swim trunks for boys, perfect for the beach.",
+            "price": 399.99,
+            "brand": "Quiksilver Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/boys-swim-trunks"
+          },
+          {
+            "name": "Girls Denim Jacket",
+            "description": "Classic denim jacket for girls, great for layering.",
+            "price": 950.99,
+            "brand": "Gap Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/girls-denim-jacket"
+          },
+          {
+            "name": "Boys Graphic Sweatshirt",
+            "description": "Trendy sweatshirt with graphic prints for boys.",
+            "price": 675,
+            "brand": "Puma Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/boys-graphic-sweatshirt"
+          },
+          {
+            "name": "Girls Tulle Skirt",
+            "description": "Playful tulle skirt for girls, adds a fun touch to any outfit.",
+            "price": 599.99,
+            "brand": "Tutu Du Monde",
+            "inStock": true,
+            "images": "https://link-to-image.com/girls-tulle-skirt"
+          },
+          {
+            "name": "Boys Cargo Pants",
+            "description": "Durable cargo pants for boys, ideal for adventures.",
+            "price": 499.5,
+            "brand": "North Face Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/boys-cargo-pants"
+          },
+          {
+            "name": "Girls Lace Dress",
+            "description": "Elegant lace dress for formal occasions.",
+            "price": 850,
+            "brand": "Mayoral",
+            "inStock": true,
+            "images": "https://link-to-image.com/girls-lace-dress"
+          },
+          {
+            "name": "Boys Sports Shorts",
+            "description": "Comfortable sports shorts for boys, ideal for play.",
+            "price": 350.5,
+            "brand": "Reebok Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/boys-sports-shorts"
+          },
+          {
+            "name": "Girls Cotton Leggings",
+            "description": "Soft cotton leggings for all-day comfort.",
+            "price": 299.99,
+            "brand": "H&M Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/girls-leggings"
+          },
+          {
+            "name": "Boys Puffer Jacket",
+            "description": "Warm puffer jacket for boys, ideal for winter.",
+            "price": 1299.99,
+            "brand": "Patagonia Kids",
+            "inStock": true,
+            "images": "https://link-to-image.com/boys-puffer-jacket"
+          }
+        ]
+      },
+      {
+        "name": "Rompers",
+        "subId": 15,
+
+        "products": [
+          {
+            "name": "Floral Print Romper",
+            "description": "A cute floral print romper for a playful look.",
+            "price": 499.99,
+            "brand": "Carter's",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/1"
+          },
+          {
+            "name": "Denim Romper",
+            "description": "Stylish denim romper for a chic, casual look.",
+            "price": 599.99,
+            "brand": "Old Navy",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/2"
+          },
+          {
+            "name": "Striped Romper",
+            "description": "Comfortable striped romper for everyday wear.",
+            "price": 399.99,
+            "brand": "H&M",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/3"
+          },
+          {
+            "name": "Animal Print Romper",
+            "description": "Fun animal print romper perfect for adventure-filled days.",
+            "price": 499.99,
+            "brand": "Zara",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/4"
+          },
+          {
+            "name": "Polka Dot Romper",
+            "description": "Classic polka dot romper for a timeless look.",
+            "price": 449.99,
+            "brand": "Target",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/5"
+          },
+          {
+            "name": "Solid Color Romper",
+            "description": "Simple and stylish solid color romper for any occasion.",
+            "price": 359.99,
+            "brand": "Uniqlo",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/6"
+          },
+          {
+            "name": "Plaid Romper",
+            "description": "Trendy plaid romper with a cute collar design.",
+            "price": 549.99,
+            "brand": "Baby Gap",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/7"
+          },
+          {
+            "name": "Tropical Print Romper",
+            "description": "Colorful tropical print romper for summer fun.",
+            "price": 599.99,
+            "brand": "Disney",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/8"
+          },
+          {
+            "name": "Linen Romper",
+            "description": "Breathable linen romper for warm weather.",
+            "price": 799.99,
+            "brand": "Boden",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/9"
+          },
+          {
+            "name": "Ruffle Romper",
+            "description": "Charming ruffle romper with a feminine touch.",
+            "price": 649.99,
+            "brand": "Janie and Jack",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/10"
+          },
+          {
+            "name": "Striped Sleeveless Romper",
+            "description": "Sleeveless striped romper for those sunny days.",
+            "price": 479.99,
+            "brand": "Carters",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/11"
+          },
+          {
+            "name": "Camo Romper",
+            "description": "Trendy camo romper for little explorers.",
+            "price": 699.99,
+            "brand": "Puma",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/12"
+          },
+          {
+            "name": "Space Print Romper",
+            "description": "Fun space-themed romper for little astronauts.",
+            "price": 699.99,
+            "brand": "Nike",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/13"
+          },
+          {
+            "name": "Rainbow Romper",
+            "description": "Bright and colorful rainbow romper for a joyful look.",
+            "price": 499.99,
+            "brand": "Gap Kids",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/14"
+          },
+          {
+            "name": "Graphic Print Romper",
+            "description": "Romper featuring a cool graphic print for an edgy vibe.",
+            "price": 599.99,
+            "brand": "Abercrombie Kids",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/15"
+          },
+          {
+            "name": "Butterfly Print Romper",
+            "description": "Delicate butterfly print romper for a soft, whimsical look.",
+            "price": 649.99,
+            "brand": "Next",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/16"
+          },
+          {
+            "name": "Denim Jumpsuit Romper",
+            "description": "Stylish denim jumpsuit romper with a vintage feel.",
+            "price": 799.99,
+            "brand": "Levi's Kids",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/17"
+          },
+          {
+            "name": "Heart Print Romper",
+            "description": "Sweet heart print romper for a loving look.",
+            "price": 499.99,
+            "brand": "H&M Kids",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/18"
+          },
+          {
+            "name": "Boho Print Romper",
+            "description": "Boho-style romper with a laid-back, chic vibe.",
+            "price": 699.99,
+            "brand": "Free People Kids",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/19"
+          },
+          {
+            "name": "Sports Romper",
+            "description": "Active sports romper for comfort and movement.",
+            "price": 799.99,
+            "brand": "Under Armour Kids",
+            "inStock": true,
+            "images": "https://link-to-romper-image.com/20"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Toys & Accessories",
+    "section": "kids",
+    "sectionId": 3,
+
+    "subcategories": [
+      {
+        "name": "Soft Toys",
+        "subId": 16,
+        "products": [
+          {
+            "name": "Teddy Bear",
+            "description": "A soft and cuddly teddy bear for endless hugs.",
+            "price": 399.99,
+            "brand": "Build-A-Bear",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/1"
+          },
+          {
+            "name": "Elephant Plush Toy",
+            "description": "A cute, soft elephant plush for a comforting companion.",
+            "price": 499.99,
+            "brand": "Fisher-Price",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/2"
+          },
+          {
+            "name": "Lion Stuffed Animal",
+            "description": "A roaring lion stuffed animal, soft and fluffy.",
+            "price": 399.99,
+            "brand": "Disney",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/3"
+          },
+          {
+            "name": "Bunny Rabbit Plush",
+            "description": "A soft bunny rabbit plush for bedtime cuddles.",
+            "price": 299.99,
+            "brand": "Gund",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/4"
+          },
+          {
+            "name": "Dinosaur Plush Toy",
+            "description": "A fun and soft dinosaur plush toy for imaginative play.",
+            "price": 499.99,
+            "brand": "Mattel",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/5"
+          },
+          {
+            "name": "Unicorn Plush",
+            "description": "A magical unicorn plush, perfect for every child.",
+            "price": 549.99,
+            "brand": "Kohl's",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/6"
+          },
+          {
+            "name": "Panda Soft Toy",
+            "description": "A soft panda bear for cuddles and adventures.",
+            "price": 449.99,
+            "brand": "Wild Republic",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/7"
+          },
+          {
+            "name": "Turtle Plush Toy",
+            "description": "A huggable turtle plush toy for relaxing moments.",
+            "price": 399.99,
+            "brand": "The Teddy Bears",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/8"
+          },
+          {
+            "name": "Puppy Dog Plush",
+            "description": "A soft and friendly puppy plush for playtime.",
+            "price": 299.99,
+            "brand": "Melissa & Doug",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/9"
+          },
+          {
+            "name": "Koala Bear Stuffed Animal",
+            "description": "A super-soft koala bear for cuddles and fun.",
+            "price": 499.99,
+            "brand": "Toys 'R' Us",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/10"
+          },
+          {
+            "name": "Giraffe Plush Toy",
+            "description": "A cute giraffe plush with a long neck for snuggles.",
+            "price": 399.99,
+            "brand": "Ty",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/11"
+          },
+          {
+            "name": "Cat Stuffed Toy",
+            "description": "A fluffy cat plush for endless affection.",
+            "price": 349.99,
+            "brand": "Build-A-Bear",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/12"
+          },
+          {
+            "name": "Monkey Plush Toy",
+            "description": "A soft monkey plush toy, perfect for little hands.",
+            "price": 299.99,
+            "brand": "Fisher-Price",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/13"
+          },
+          {
+            "name": "Rabbit Soft Toy",
+            "description": "A soft rabbit toy to snuggle with during naptime.",
+            "price": 379.99,
+            "brand": "Gund",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/14"
+          },
+          {
+            "name": "Penguin Plush Toy",
+            "description": "A cute penguin plush for winter adventures.",
+            "price": 399.99,
+            "brand": "Toys 'R' Us",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/15"
+          },
+          {
+            "name": "Horse Stuffed Animal",
+            "description": "A soft horse plush for every little cowboy or cowgirl.",
+            "price": 499.99,
+            "brand": "American Girl",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/16"
+          },
+          {
+            "name": "Elephant Plush Toy",
+            "description": "A soft and lovable elephant for endless playtime.",
+            "price": 399.99,
+            "brand": "Disney",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/17"
+          },
+          {
+            "name": "Alligator Plush Toy",
+            "description": "A soft alligator toy for play and cuddling.",
+            "price": 449.99,
+            "brand": "Gund",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/18"
+          },
+          {
+            "name": "Sloth Stuffed Animal",
+            "description": "A super soft sloth for slow and cozy cuddles.",
+            "price": 499.99,
+            "brand": "Kohl's",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/19"
+          },
+          {
+            "name": "Zebra Plush Toy",
+            "description": "A playful zebra plush for all the little adventurers.",
+            "price": 399.99,
+            "brand": "Ty",
+            "inStock": true,
+            "images": "https://link-to-toy-image.com/20"
+          }
+        ]
+      },
+      {
+        "name": "Stationary",
+        "subId": 17,
+        "products": [
+          {
+            "name": "Colorful Crayons",
+            "description": "A box of 24 vibrant crayons for artistic fun.",
+            "price": 149.99,
+            "brand": "Crayola",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/1"
+          },
+          {
+            "name": "Markers Set",
+            "description": "A set of 10 washable markers for bright and bold artwork.",
+            "price": 199.99,
+            "brand": "Sharpie",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/2"
+          },
+          {
+            "name": "Pencil Case",
+            "description": "A cute, durable pencil case to store all your stationery essentials.",
+            "price": 249.99,
+            "brand": "Smiggle",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/3"
+          },
+          {
+            "name": "Notebook with Stickers",
+            "description": "A colorful notebook with fun stickers for personalization.",
+            "price": 159.99,
+            "brand": "Moleskine",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/4"
+          },
+          {
+            "name": "Gel Pens Set",
+            "description": "A set of 10 gel pens with vibrant colors for smooth writing.",
+            "price": 299.99,
+            "brand": "Paper Mate",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/5"
+          },
+          {
+            "name": "Sticky Notes Pad",
+            "description": "A pack of colorful sticky notes for notes and reminders.",
+            "price": 99.99,
+            "brand": "Post-it",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/6"
+          },
+          {
+            "name": "Ruler Set",
+            "description": "A set of durable rulers in various sizes for accurate measurements.",
+            "price": 179.99,
+            "brand": "Staedtler",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/7"
+          },
+          {
+            "name": "Colored Pencils",
+            "description": "A pack of 12 colored pencils for artistic creativity.",
+            "price": 139.99,
+            "brand": "Prismacolor",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/8"
+          },
+          {
+            "name": "Erasers Set",
+            "description": "A set of 4 cute and colorful erasers for clean corrections.",
+            "price": 79.99,
+            "brand": "Faber-Castell",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/9"
+          },
+          {
+            "name": "Sketchbook",
+            "description": "A blank sketchbook for budding artists to explore their creativity.",
+            "price": 249.99,
+            "brand": "Canson",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/10"
+          },
+          {
+            "name": "Scissors for Kids",
+            "description": "Child-safe scissors for crafting and cutting fun.",
+            "price": 149.99,
+            "brand": "Fiskars",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/11"
+          },
+          {
+            "name": "Glue Stick",
+            "description": "A non-toxic glue stick for arts and crafts.",
+            "price": 89.99,
+            "brand": "Elmers",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/12"
+          },
+          {
+            "name": "Pencil Set",
+            "description": "A set of 12 high-quality pencils for school and art.",
+            "price": 119.99,
+            "brand": "Ticonderoga",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/13"
+          },
+          {
+            "name": "Drawing Pad",
+            "description": "A drawing pad with thick pages for sketches and doodles.",
+            "price": 299.99,
+            "brand": "Strathmore",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/14"
+          },
+          {
+            "name": "Washable Markers",
+            "description": "A set of 8 washable markers that are perfect for kids.",
+            "price": 179.99,
+            "brand": "Crayola",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/15"
+          },
+          {
+            "name": "Paper Clips",
+            "description": "A pack of 100 paper clips for organizing notes.",
+            "price": 49.99,
+            "brand": "Office Depot",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/16"
+          },
+          {
+            "name": "Clip-on Pencil Sharpener",
+            "description": "A fun clip-on pencil sharpener for easy sharpening.",
+            "price": 49.99,
+            "brand": "Kum",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/17"
+          },
+          {
+            "name": "Chalk Set",
+            "description": "A set of colored chalks for drawing and fun outdoor play.",
+            "price": 129.99,
+            "brand": "Crayola",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/18"
+          },
+          {
+            "name": "Markers Set",
+            "description": "A pack of 8 broad tip markers for bold and vibrant drawing.",
+            "price": 219.99,
+            "brand": "Crayola",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/19"
+          },
+          {
+            "name": "Sticker Sheet",
+            "description": "A collection of fun and colorful stickers for decoration.",
+            "price": 99.99,
+            "brand": "Joann Fabrics",
+            "inStock": true,
+            "images": "https://link-to-stationery-image.com/20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Home-Furnishing",
+    "section": "home&kitchen",
+    "sectionId": 4,
+
+    "subcategories": [
+      {
+        "name": "Bedsheets",
+        "subId": 18,
+        "products": [
+          {
+            "name": "Cotton Floral Bedsheet",
+            "description": "Soft and breathable cotton bedsheet with a vibrant floral design.",
+            "price": 899.99,
+            "brand": "Bombay Dyeing",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/1"
+          },
+          {
+            "name": "Satin Striped Bedsheet",
+            "description": "Luxurious satin bedsheet with elegant stripes for a classy look.",
+            "price": 1199.99,
+            "brand": "Portico",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/2"
+          },
+          {
+            "name": "Organic Cotton Bedsheet",
+            "description": "Eco-friendly organic cotton bedsheet, ideal for sensitive skin.",
+            "price": 999.99,
+            "brand": "Home Centre",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/3"
+          },
+          {
+            "name": "Geometric Print Bedsheet",
+            "description": "Modern geometric print bedsheet to complement any decor.",
+            "price": 749.99,
+            "brand": "Story@Home",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/4"
+          },
+          {
+            "name": "Floral Pattern Bedsheet",
+            "description": "Beautiful floral pattern bedsheet with pastel shades.",
+            "price": 899.99,
+            "brand": "Spaces",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/5"
+          },
+          {
+            "name": "Polka Dot Bedsheet",
+            "description": "Cute polka dot bedsheet, perfect for a lively bedroom decor.",
+            "price": 699.99,
+            "brand": "Cortina",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/6"
+          },
+          {
+            "name": "Paisley Print Bedsheet",
+            "description": "Classic paisley print bedsheet in soothing colors.",
+            "price": 849.99,
+            "brand": "Bombay Dyeing",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/7"
+          },
+          {
+            "name": "Single Color Bedsheet",
+            "description": "Elegant single color bedsheet for a minimalist look.",
+            "price": 649.99,
+            "brand": "Ikea",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/8"
+          },
+          {
+            "name": "3D Print Bedsheet",
+            "description": "Unique 3D print bedsheet for a bold, eye-catching look.",
+            "price": 1099.99,
+            "brand": "Home Weavers",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/9"
+          },
+          {
+            "name": "Vintage Floral Bedsheet",
+            "description": "Vintage-inspired floral bedsheet to add charm to your room.",
+            "price": 899.99,
+            "brand": "D'Decor",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/10"
+          },
+          {
+            "name": "Animal Print Bedsheet",
+            "description": "Fun animal print bedsheet for kids or adventurous adults.",
+            "price": 799.99,
+            "brand": "FabIndia",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/11"
+          },
+          {
+            "name": "Abstract Print Bedsheet",
+            "description": "Colorful abstract print bedsheet for a vibrant room decor.",
+            "price": 849.99,
+            "brand": "Portico",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/12"
+          },
+          {
+            "name": "Ethnic Print Bedsheet",
+            "description": "Ethnic print bedsheet for a touch of tradition in your decor.",
+            "price": 799.99,
+            "brand": "Jaipur Prints",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/13"
+          },
+          {
+            "name": "Multi-color Striped Bedsheet",
+            "description": "Bright multi-color striped bedsheet to liven up your space.",
+            "price": 749.99,
+            "brand": "Hometown",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/14"
+          },
+          {
+            "name": "Kids Cartoon Bedsheet",
+            "description": "Cartoon character bedsheet for kids' rooms, made from soft cotton.",
+            "price": 699.99,
+            "brand": "Cortina",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/15"
+          },
+          {
+            "name": "Embroidered Bedsheet",
+            "description": "Elegant embroidered bedsheet with intricate detailing.",
+            "price": 1199.99,
+            "brand": "Maspar",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/16"
+          },
+          {
+            "name": "Linen Textured Bedsheet",
+            "description": "Linen textured bedsheet for a sophisticated bedroom look.",
+            "price": 1299.99,
+            "brand": "Urban Ladder",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/17"
+          },
+          {
+            "name": "Mandala Print Bedsheet",
+            "description": "Boho-style mandala print bedsheet for an artistic vibe.",
+            "price": 949.99,
+            "brand": "The Loom",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/18"
+          },
+          {
+            "name": "Dual Tone Bedsheet",
+            "description": "Dual tone bedsheet with contrasting colors for added style.",
+            "price": 899.99,
+            "brand": "Story@Home",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/19"
+          },
+          {
+            "name": "Checks Pattern Bedsheet",
+            "description": "Classic checks pattern bedsheet in soft cotton material.",
+            "price": 799.99,
+            "brand": "Pepperfry",
+            "inStock": true,
+            "images": "https://link-to-bedsheet-image.com/20"
+          }
+        ]
+      },
+      {
+        "name": "Doormats",
+        "subId": 19,
+        "products": [
+          {
+            "name": "Welcome Coir Doormat",
+            "description": "Classic welcome doormat made from durable coir material.",
+            "price": 299.99,
+            "brand": "Home Centre",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/1"
+          },
+          {
+            "name": "Geometric Pattern Doormat",
+            "description": "Modern geometric pattern doormat for a stylish entrance.",
+            "price": 399.99,
+            "brand": "Ikea",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/2"
+          },
+          {
+            "name": "Anti-Slip Rubber Doormat",
+            "description": "Durable rubber doormat with anti-slip backing for safety.",
+            "price": 499.99,
+            "brand": "Duraclean",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/3"
+          },
+          {
+            "name": "Floral Printed Doormat",
+            "description": "Bright floral printed doormat to add a welcoming touch.",
+            "price": 349.99,
+            "brand": "Casa Decor",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/4"
+          },
+          {
+            "name": "Eco-Friendly Jute Doormat",
+            "description": "Natural jute doormat, perfect for an eco-friendly home.",
+            "price": 449.99,
+            "brand": "FabIndia",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/5"
+          },
+          {
+            "name": "Striped Cotton Doormat",
+            "description": "Soft and absorbent striped cotton doormat, machine washable.",
+            "price": 299.99,
+            "brand": "Amazon Basics",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/6"
+          },
+          {
+            "name": "3D Welcome Doormat",
+            "description": "3D printed welcome doormat for a unique look at your entrance.",
+            "price": 399.99,
+            "brand": "Urban Ladder",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/7"
+          },
+          {
+            "name": "Abstract Pattern Doormat",
+            "description": "Abstract pattern doormat for a contemporary vibe.",
+            "price": 359.99,
+            "brand": "Story@Home",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/8"
+          },
+          {
+            "name": "Water Absorbent Doormat",
+            "description": "Super absorbent doormat, ideal for rainy days.",
+            "price": 399.99,
+            "brand": "WaterHog",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/9"
+          },
+          {
+            "name": "Paw Print Doormat",
+            "description": "Cute paw print doormat for pet lovers.",
+            "price": 299.99,
+            "brand": "PetSafe",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/10"
+          },
+          {
+            "name": "Rubber Scraper Doormat",
+            "description": "Heavy-duty rubber scraper doormat for dirt removal.",
+            "price": 549.99,
+            "brand": "Safety First",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/11"
+          },
+          {
+            "name": "Monogrammed Doormat",
+            "description": "Personalized monogrammed doormat for a custom touch.",
+            "price": 599.99,
+            "brand": "Custom Home",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/12"
+          },
+          {
+            "name": "Checkered Doormat",
+            "description": "Classic checkered doormat, perfect for any home decor.",
+            "price": 299.99,
+            "brand": "Home Basics",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/13"
+          },
+          {
+            "name": "Welcome Home Doormat",
+            "description": "Welcome home doormat with a warm message.",
+            "price": 349.99,
+            "brand": "Portico",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/14"
+          },
+          {
+            "name": "Outdoor Grass Doormat",
+            "description": "Artificial grass doormat for outdoor or patio use.",
+            "price": 399.99,
+            "brand": "Green Turf",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/15"
+          },
+          {
+            "name": "Funny Quote Doormat",
+            "description": "Doormat with a funny quote to amuse guests.",
+            "price": 449.99,
+            "brand": "Doormat Designs",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/16"
+          },
+          {
+            "name": "Traditional Indian Doormat",
+            "description": "Ethnic Indian print doormat to add a cultural touch.",
+            "price": 299.99,
+            "brand": "Jaipur Rugs",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/17"
+          },
+          {
+            "name": "Reversible Woven Doormat",
+            "description": "Handwoven reversible doormat for versatile use.",
+            "price": 349.99,
+            "brand": "Artisan Weaves",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/18"
+          },
+          {
+            "name": "Mandala Print Doormat",
+            "description": "Bohemian mandala print doormat for artistic decor.",
+            "price": 499.99,
+            "brand": "Boho Living",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/19"
+          },
+          {
+            "name": "Microfiber Plush Doormat",
+            "description": "Ultra-soft microfiber doormat for a cozy feel.",
+            "price": 399.99,
+            "brand": "Soft Step",
+            "inStock": true,
+            "images": "https://link-to-doormat-image.com/20"
+          }
+        ]
+      },
+      {
+        "name": "Curtains",
+        "subId": 20,
+        "products": [
+          {
+            "name": "Elegant Floral Curtains",
+            "description": "Light-filtering floral print curtains with a soft, elegant design.",
+            "price": 899.99,
+            "brand": "Home Centre",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/1"
+          },
+          {
+            "name": "Sheer White Curtains",
+            "description": "Classic sheer white curtains for a bright and airy look.",
+            "price": 599.99,
+            "brand": "Ikea",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/2"
+          },
+          {
+            "name": "Blackout Thermal Curtains",
+            "description": "Energy-saving blackout curtains to keep light and heat out.",
+            "price": 1299.99,
+            "brand": "Amazon Basics",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/3"
+          },
+          {
+            "name": "Geometric Pattern Curtains",
+            "description": "Modern geometric curtains to enhance any room's decor.",
+            "price": 799.99,
+            "brand": "Urban Ladder",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/4"
+          },
+          {
+            "name": "Velvet Dark Green Curtains",
+            "description": "Luxurious velvet curtains in a rich dark green for a royal touch.",
+            "price": 1499.99,
+            "brand": "Casa Decor",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/5"
+          },
+          {
+            "name": "Striped Cotton Curtains",
+            "description": "Simple striped cotton curtains for a clean, modern look.",
+            "price": 699.99,
+            "brand": "Story@Home",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/6"
+          },
+          {
+            "name": "Linen Textured Curtains",
+            "description": "Soft linen-textured curtains for a cozy and natural feel.",
+            "price": 999.99,
+            "brand": "H&M Home",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/7"
+          },
+          {
+            "name": "Bohemian Mandala Curtains",
+            "description": "Vibrant mandala design curtains for a boho-inspired decor.",
+            "price": 1099.99,
+            "brand": "Boho Living",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/8"
+          },
+          {
+            "name": "Grommet Top Blackout Curtains",
+            "description": "Easy-to-install grommet top blackout curtains to block light.",
+            "price": 1199.99,
+            "brand": "Sun Zero",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/9"
+          },
+          {
+            "name": "Traditional Indian Print Curtains",
+            "description": "Ethnic Indian print curtains to add cultural flair.",
+            "price": 899.99,
+            "brand": "FabIndia",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/10"
+          },
+          {
+            "name": "Navy Blue Silk Curtains",
+            "description": "Luxurious navy blue silk curtains with a shimmering effect.",
+            "price": 1599.99,
+            "brand": "Silk Route",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/11"
+          },
+          {
+            "name": "Printed Kids’ Room Curtains",
+            "description": "Fun printed curtains perfect for kids' rooms.",
+            "price": 799.99,
+            "brand": "Little Explorers",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/12"
+          },
+          {
+            "name": "Plain Beige Curtains",
+            "description": "Neutral beige curtains for a versatile, minimalist look.",
+            "price": 649.99,
+            "brand": "Portico",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/13"
+          },
+          {
+            "name": "Sheer Ombre Curtains",
+            "description": "Stylish ombre sheer curtains for a gradient effect.",
+            "price": 699.99,
+            "brand": "Next Home",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/14"
+          },
+          {
+            "name": "Thermal Insulated Curtains",
+            "description": "Thermal curtains with insulation to regulate room temperature.",
+            "price": 1349.99,
+            "brand": "InsuCurt",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/15"
+          },
+          {
+            "name": "Leaf Patterned Curtains",
+            "description": "Leaf-patterned curtains for a fresh, nature-inspired look.",
+            "price": 849.99,
+            "brand": "Home Expressions",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/16"
+          },
+          {
+            "name": "Velvet Room Darkening Curtains",
+            "description": "Room-darkening velvet curtains for an elegant, cozy ambiance.",
+            "price": 1399.99,
+            "brand": "Luxe Decor",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/17"
+          },
+          {
+            "name": "Wave Patterned Curtains",
+            "description": "Curtains with a wave pattern for a contemporary, stylish look.",
+            "price": 899.99,
+            "brand": "Curtain Call",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/18"
+          },
+          {
+            "name": "Room Divider Curtains",
+            "description": "Thick room divider curtains for privacy and separation.",
+            "price": 1299.99,
+            "brand": "Partition Pro",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/19"
+          },
+          {
+            "name": "Rustic Burlap Curtains",
+            "description": "Rustic burlap curtains for a farmhouse-inspired look.",
+            "price": 749.99,
+            "brand": "Farmhouse Charm",
+            "inStock": true,
+            "images": "https://link-to-curtain-image.com/20"
+          }
+        ]
+      },
+
+      {
+        "name": "Cushion",
+        "subId": 21,
+        "products": [
+          {
+            "name": "Velvet Cushion Cover",
+            "description": "Luxurious velvet cushion cover for a touch of elegance.",
+            "price": 299.99,
+            "brand": "Casa Decor",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/1"
+          },
+          {
+            "name": "Geometric Pattern Cushion",
+            "description": "Modern cushion with a bold geometric design.",
+            "price": 499.99,
+            "brand": "Urban Ladder",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/2"
+          },
+          {
+            "name": "Floral Print Cushion Cover",
+            "description": "Bright floral print cushion cover for a lively decor.",
+            "price": 199.99,
+            "brand": "Home Centre",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/3"
+          },
+          {
+            "name": "Bohemian Tassel Cushion",
+            "description": "A Boho-style cushion with tassels for a chic look.",
+            "price": 399.99,
+            "brand": "Boho Living",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/4"
+          },
+          {
+            "name": "Abstract Art Cushion Cover",
+            "description": "Cushion cover with an abstract art print for a contemporary style.",
+            "price": 249.99,
+            "brand": "Pepperfry",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/5"
+          },
+          {
+            "name": "Knitted Cotton Cushion",
+            "description": "Soft, knitted cotton cushion for a cozy touch.",
+            "price": 549.99,
+            "brand": "Story@Home",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/6"
+          },
+          {
+            "name": "Ethnic Print Cushion Cover",
+            "description": "Ethnic print cushion cover to add cultural flair to any room.",
+            "price": 179.99,
+            "brand": "FabIndia",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/7"
+          },
+          {
+            "name": "Round Floor Cushion",
+            "description": "Comfortable round floor cushion for lounging.",
+            "price": 699.99,
+            "brand": "Ikea",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/8"
+          },
+          {
+            "name": "Tropical Leaf Cushion Cover",
+            "description": "Tropical leaf print cushion cover for a fresh look.",
+            "price": 249.99,
+            "brand": "Amazon Basics",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/9"
+          },
+          {
+            "name": "Silk Embroidered Cushion",
+            "description": "Luxurious silk cushion with intricate embroidery.",
+            "price": 749.99,
+            "brand": "Silk Route",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/10"
+          },
+          {
+            "name": "Tufted Velvet Cushion",
+            "description": "Tufted velvet cushion for added comfort and style.",
+            "price": 599.99,
+            "brand": "Casa Velvet",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/11"
+          },
+          {
+            "name": "Quilted Cushion Cover",
+            "description": "Quilted cushion cover for a cozy and textured look.",
+            "price": 229.99,
+            "brand": "Portico",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/12"
+          },
+          {
+            "name": "Animal Print Cushion Cover",
+            "description": "Faux fur animal print cushion cover for a wild touch.",
+            "price": 399.99,
+            "brand": "Wild Home",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/13"
+          },
+          {
+            "name": "Striped Outdoor Cushion",
+            "description": "Durable striped cushion for outdoor furniture.",
+            "price": 299.99,
+            "brand": "Patio Perfect",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/14"
+          },
+          {
+            "name": "Suede Cushion",
+            "description": "Soft suede cushion with a minimalist design.",
+            "price": 599.99,
+            "brand": "Minimalist Home",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/15"
+          },
+          {
+            "name": "Moroccan Style Cushion Cover",
+            "description": "Vibrant Moroccan-style cushion cover for a bold decor.",
+            "price": 279.99,
+            "brand": "World Market",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/16"
+          },
+          {
+            "name": "Solid Color Cushion Cover",
+            "description": "Simple solid color cushion cover for versatility.",
+            "price": 199.99,
+            "brand": "Basics",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/17"
+          },
+          {
+            "name": "Vintage Embroidery Cushion",
+            "description": "Vintage-style cushion with floral embroidery.",
+            "price": 649.99,
+            "brand": "Vintage Chic",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/18"
+          },
+          {
+            "name": "Watercolor Print Cushion Cover",
+            "description": "Watercolor effect print cushion cover for a soft touch.",
+            "price": 239.99,
+            "brand": "Artistic Living",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/19"
+          },
+          {
+            "name": "Leather Cushion",
+            "description": "Sleek leather cushion for a sophisticated decor.",
+            "price": 799.99,
+            "brand": "Luxury Home",
+            "inStock": true,
+            "images": "https://link-to-cushion-image.com/20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Home-Decor",
+    "section": "home&kitchen",
+    "sectionId": 4,
+
+    "subcategories": [
+      {
+        "name": "Stickeer",
+        "subId": 22,
+        "products": [
+          {
+            "name": "Floral Wall Sticker",
+            "description": "A beautiful floral wall sticker to brighten up your living space.",
+            "price": 199.99,
+            "brand": "HomeStyle",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/1"
+          },
+          {
+            "name": "Inspirational Quote Sticker",
+            "description": "An uplifting inspirational quote sticker for your home office.",
+            "price": 149.99,
+            "brand": "DecoWall",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/2"
+          },
+          {
+            "name": "3D Butterfly Wall Stickers",
+            "description": "Set of 3D butterfly wall stickers for a whimsical touch.",
+            "price": 349.99,
+            "brand": "WallArt",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/3"
+          },
+          {
+            "name": "Map of the World Sticker",
+            "description": "A large world map wall sticker for travel enthusiasts.",
+            "price": 499.99,
+            "brand": "GlobeDecor",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/4"
+          },
+          {
+            "name": "Abstract Art Wall Sticker",
+            "description": "Colorful abstract art wall sticker for a modern vibe.",
+            "price": 299.99,
+            "brand": "ArtWall",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/5"
+          },
+          {
+            "name": "Tree Branch Wall Decal",
+            "description": "A nature-inspired tree branch wall decal for a peaceful feel.",
+            "price": 199.99,
+            "brand": "NatureDecor",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/6"
+          },
+          {
+            "name": "Birds in Flight Sticker",
+            "description": "Sticker set of birds in flight for a dynamic home decor.",
+            "price": 249.99,
+            "brand": "FlyDecor",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/7"
+          },
+          {
+            "name": "Geometric Shapes Sticker",
+            "description": "Geometric shapes wall sticker for a trendy, minimalist decor.",
+            "price": 149.99,
+            "brand": "ModernHome",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/8"
+          },
+          {
+            "name": "Flower Vase Wall Sticker",
+            "description": "A flower vase wall sticker for adding color to your space.",
+            "price": 249.99,
+            "brand": "DecorVibes",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/9"
+          },
+          {
+            "name": "Vintage Bicycle Wall Sticker",
+            "description": "A charming vintage bicycle wall sticker for your hallway.",
+            "price": 199.99,
+            "brand": "RetroDecor",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/10"
+          },
+          {
+            "name": "Kids Animal Stickers",
+            "description": "Colorful and fun animal stickers for kids' rooms.",
+            "price": 149.99,
+            "brand": "KidsDecor",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/11"
+          },
+          {
+            "name": "Minimalist Star Stickers",
+            "description": "Simple star-shaped wall stickers for a subtle decor.",
+            "price": 119.99,
+            "brand": "SimpleLiving",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/12"
+          },
+          {
+            "name": "Love Quote Wall Sticker",
+            "description": "Romantic love quote wall sticker for your bedroom.",
+            "price": 199.99,
+            "brand": "LoveArt",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/13"
+          },
+          {
+            "name": "Peacock Feather Wall Sticker",
+            "description": "Decorative peacock feather wall sticker for elegance.",
+            "price": 299.99,
+            "brand": "RoyalDecor",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/14"
+          },
+          {
+            "name": "Cactus Sticker Set",
+            "description": "A set of cute cactus stickers for a desert-themed room.",
+            "price": 179.99,
+            "brand": "DesertHome",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/15"
+          },
+          {
+            "name": "Clouds Wall Stickers",
+            "description": "Fluffy cloud wall stickers perfect for a dreamy ambiance.",
+            "price": 229.99,
+            "brand": "SkyDecor",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/16"
+          },
+          {
+            "name": "Falling Leaves Wall Sticker",
+            "description": "Autumn-themed falling leaves wall stickers.",
+            "price": 179.99,
+            "brand": "AutumnDecor",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/17"
+          },
+          {
+            "name": "Modern Art Stickers",
+            "description": "Set of modern art stickers for a contemporary living space.",
+            "price": 399.99,
+            "brand": "ModernDesign",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/18"
+          },
+          {
+            "name": "Ocean Wave Wall Decal",
+            "description": "A soothing ocean wave wall decal for a calming vibe.",
+            "price": 299.99,
+            "brand": "OceanLife",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/19"
+          },
+          {
+            "name": "Kitchen Quote Stickers",
+            "description": "Fun and motivational quote stickers for your kitchen walls.",
+            "price": 129.99,
+            "brand": "KitchenStyle",
+            "inStock": true,
+            "images": "https://link-to-sticker-image.com/20"
+          }
+        ]
+      },
+      {
+        "name": "Clocks",
+        "subId": 23,
+        "products": [
+          {
+            "name": "Vintage Wall Clock",
+            "description": "A classic vintage wall clock with Roman numerals for a timeless appeal.",
+            "price": 599.99,
+            "brand": "ClockWorks",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/1"
+          },
+          {
+            "name": "Wooden Wall Clock",
+            "description": "A rustic wooden wall clock that adds a natural touch to any room.",
+            "price": 799.99,
+            "brand": "TimberTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/2"
+          },
+          {
+            "name": "Modern Digital Clock",
+            "description": "A sleek digital clock with a modern design, perfect for the office.",
+            "price": 399.99,
+            "brand": "TechTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/3"
+          },
+          {
+            "name": "Flower Design Wall Clock",
+            "description": "A colorful flower design wall clock to brighten up your living room.",
+            "price": 399.99,
+            "brand": "FloralTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/4"
+          },
+          {
+            "name": "Metallic Wall Clock",
+            "description": "A stylish metallic wall clock with a sleek, industrial design.",
+            "price": 799.99,
+            "brand": "IndustrialClock",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/5"
+          },
+          {
+            "name": "Analog Wooden Desk Clock",
+            "description": "A traditional analog desk clock made of fine wood, perfect for your workspace.",
+            "price": 499.99,
+            "brand": "WoodenTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/6"
+          },
+          {
+            "name": "Classic Round Wall Clock",
+            "description": "A classic round wall clock with easy-to-read numbers and a minimalist design.",
+            "price": 299.99,
+            "brand": "TimeCraft",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/7"
+          },
+          {
+            "name": "Large Grandfather Clock",
+            "description": "A tall, elegant grandfather clock for a touch of luxury in your home.",
+            "price": 1499.99,
+            "brand": "RegalClocks",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/8"
+          },
+          {
+            "name": "Cuckoo Clock",
+            "description": "A charming cuckoo clock that plays a traditional tune every hour.",
+            "price": 899.99,
+            "brand": "CuckooCraft",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/9"
+          },
+          {
+            "name": "Sculptural Wall Clock",
+            "description": "A unique sculptural clock that doubles as modern art for your wall.",
+            "price": 1099.99,
+            "brand": "ArtTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/10"
+          },
+          {
+            "name": "Minimalist Wall Clock",
+            "description": "A simple, minimalist wall clock with a clean design and no numbers.",
+            "price": 249.99,
+            "brand": "SimplicityClocks",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/11"
+          },
+          {
+            "name": "Industrial Gear Wall Clock",
+            "description": "A unique industrial-style clock with a gear design, perfect for modern spaces.",
+            "price": 599.99,
+            "brand": "GearTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/12"
+          },
+          {
+            "name": "Quartz Wall Clock",
+            "description": "A reliable quartz wall clock with a wooden finish for a vintage look.",
+            "price": 399.99,
+            "brand": "QuartzWorks",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/13"
+          },
+          {
+            "name": "Sunburst Wall Clock",
+            "description": "A beautiful sunburst design wall clock that adds a retro vibe to any room.",
+            "price": 799.99,
+            "brand": "RetroTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/14"
+          },
+          {
+            "name": "Mirror Wall Clock",
+            "description": "A stylish mirror wall clock that combines functionality with elegance.",
+            "price": 899.99,
+            "brand": "MirroredTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/15"
+          },
+          {
+            "name": "Sports Watch Wall Clock",
+            "description": "A wall clock inspired by sports watch design, perfect for game rooms or offices.",
+            "price": 699.99,
+            "brand": "SportyTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/16"
+          },
+          {
+            "name": "Retro Flip Clock",
+            "description": "A retro flip clock with large numbers that flip to show the time.",
+            "price": 699.99,
+            "brand": "RetroTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/17"
+          },
+          {
+            "name": "Wall Clock with Photo Frame",
+            "description": "A wall clock that also doubles as a photo frame to display your memories.",
+            "price": 499.99,
+            "brand": "FrameTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/18"
+          },
+          {
+            "name": "LED Light Wall Clock",
+            "description": "A wall clock with built-in LED lights to illuminate the room at night.",
+            "price": 799.99,
+            "brand": "GlowTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/19"
+          },
+          {
+            "name": "Digital Alarm Clock",
+            "description": "A digital alarm clock with a sleek design and easy-to-read display.",
+            "price": 299.99,
+            "brand": "SmartTime",
+            "inStock": true,
+            "images": "https://link-to-clock-image.com/20"
+          }
+        ]
+      },
+      {
+        "name": "Showpieces",
+        "subId": 24,
+        "products": [
+          {
+            "name": "Glass Swan Figurine",
+            "description": "A beautifully crafted glass swan figurine, perfect for your living room decor.",
+            "price": 499.99,
+            "brand": "CrystalArt",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/1"
+          },
+          {
+            "name": "Wooden Elephant Sculpture",
+            "description": "A hand-carved wooden elephant sculpture, bringing good luck and charm.",
+            "price": 799.99,
+            "brand": "WoodCraft",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/2"
+          },
+          {
+            "name": "Metallic Flower Vase",
+            "description": "A decorative metallic flower vase with intricate patterns, a modern touch for your space.",
+            "price": 399.99,
+            "brand": "HomeDecor",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/3"
+          },
+          {
+            "name": "Marble Buddha Statue",
+            "description": "A serene marble Buddha statue, symbolizing peace and tranquility.",
+            "price": 899.99,
+            "brand": "DivineArts",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/4"
+          },
+          {
+            "name": "Wooden Giraffe Figurine",
+            "description": "A handcrafted wooden giraffe figurine, adding a touch of nature to your decor.",
+            "price": 699.99,
+            "brand": "ArtWood",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/5"
+          },
+          {
+            "name": "Crystal Flower Ornament",
+            "description": "An elegant crystal flower ornament that catches the light beautifully.",
+            "price": 499.99,
+            "brand": "CrystalElegance",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/6"
+          },
+          {
+            "name": "Brass Peacock Figurine",
+            "description": "A brass peacock figurine symbolizing beauty and grace, perfect for any space.",
+            "price": 1099.99,
+            "brand": "MetalCraft",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/7"
+          },
+          {
+            "name": "Ceramic Buddha Head",
+            "description": "A peaceful ceramic Buddha head sculpture, perfect for meditation spaces.",
+            "price": 799.99,
+            "brand": "ZenDecor",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/8"
+          },
+          {
+            "name": "Vintage Globe Showpiece",
+            "description": "A vintage-style globe showpiece, ideal for offices or study areas.",
+            "price": 999.99,
+            "brand": "TimelessArts",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/9"
+          },
+          {
+            "name": "Glass Crystal Horse",
+            "description": "A beautiful glass crystal horse showpiece, symbolizing power and grace.",
+            "price": 799.99,
+            "brand": "CrystalCraft",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/10"
+          },
+          {
+            "name": "Wooden Buddha Figurine",
+            "description": "A traditional wooden Buddha figurine, adding a spiritual touch to your home.",
+            "price": 599.99,
+            "brand": "CraftedSpirit",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/11"
+          },
+          {
+            "name": "Stone Elephant Showpiece",
+            "description": "A detailed stone elephant showpiece, perfect for bringing good luck.",
+            "price": 699.99,
+            "brand": "StoneCraft",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/12"
+          },
+          {
+            "name": "Crystal Rose Sculpture",
+            "description": "A delicate crystal rose sculpture, symbolizing beauty and elegance.",
+            "price": 899.99,
+            "brand": "CrystalElegance",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/13"
+          },
+          {
+            "name": "Abstract Metal Art",
+            "description": "A striking abstract metal art sculpture for a modern, chic look in your home.",
+            "price": 1299.99,
+            "brand": "MetalArt",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/14"
+          },
+          {
+            "name": "Wooden Fish Showpiece",
+            "description": "A beautifully carved wooden fish showpiece symbolizing freedom and fluidity.",
+            "price": 799.99,
+            "brand": "Woodcrafts",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/15"
+          },
+          {
+            "name": "Crystal Heart Sculpture",
+            "description": "A transparent crystal heart sculpture, perfect for gifting or personal use.",
+            "price": 699.99,
+            "brand": "CrystalTreasures",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/16"
+          },
+          {
+            "name": "Metallic Owl Figurine",
+            "description": "A stunning metallic owl figurine representing wisdom and knowledge.",
+            "price": 899.99,
+            "brand": "WiseCraft",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/17"
+          },
+          {
+            "name": "Ceramic Tea Set Showpiece",
+            "description": "A charming ceramic tea set showpiece for a traditional and elegant look.",
+            "price": 699.99,
+            "brand": "CeramicElegance",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/18"
+          },
+          {
+            "name": "Handcrafted Wooden Horse",
+            "description": "A finely handcrafted wooden horse showpiece, symbolizing speed and freedom.",
+            "price": 849.99,
+            "brand": "WoodArt",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/19"
+          },
+          {
+            "name": "Glass Peacock Figurine",
+            "description": "A beautiful glass peacock figurine symbolizing grace and beauty.",
+            "price": 999.99,
+            "brand": "CrystalDesigns",
+            "inStock": true,
+            "images": "https://link-to-showpiece-image.com/20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kitchen&Dining",
+    "section": "home&kitchen",
+    "sectionId": 4,
+
+    "subcategories": [
+      {
+        "name": "Kitchen-Storage",
+        "subId": 25,
+        "products": [
+          {
+            "name": "Stackable Spice Rack",
+            "description": "A stackable spice rack to organize your kitchen spices efficiently.",
+            "price": 299.99,
+            "brand": "HomeEssentials",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/1"
+          },
+          {
+            "name": "Airtight Storage Containers Set",
+            "description": "A set of airtight containers to keep your dry foods fresh.",
+            "price": 799.99,
+            "brand": "KitchenPro",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/2"
+          },
+          {
+            "name": "Wooden Drawer Organizer",
+            "description": "A wooden drawer organizer to store utensils and kitchen tools neatly.",
+            "price": 599.99,
+            "brand": "OrganizeIt",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/3"
+          },
+          {
+            "name": "Over-the-Sink Dish Rack",
+            "description": "An over-the-sink dish rack for efficient drying of dishes.",
+            "price": 399.99,
+            "brand": "KitchenAid",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/4"
+          },
+          {
+            "name": "Rotating Spice Jar Set",
+            "description": "A rotating spice jar set with 12 jars for easy access to your spices.",
+            "price": 499.99,
+            "brand": "SpiceWorld",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/5"
+          },
+          {
+            "name": "Pull-Out Pantry Storage Rack",
+            "description": "A pull-out pantry storage rack to maximize your kitchen's vertical space.",
+            "price": 1299.99,
+            "brand": "EasyStore",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/6"
+          },
+          {
+            "name": "Glass Storage Jars Set",
+            "description": "A set of stylish glass jars for storing grains and other kitchen items.",
+            "price": 899.99,
+            "brand": "ClassicStorage",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/7"
+          },
+          {
+            "name": "Wall-Mounted Basket Organizer",
+            "description": "A wall-mounted basket organizer to store fruits, vegetables, and other kitchen items.",
+            "price": 699.99,
+            "brand": "SpaceSaver",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/8"
+          },
+          {
+            "name": "Under-Cabinet Pot Rack",
+            "description": "An under-cabinet pot rack for hanging pots and pans and freeing up cupboard space.",
+            "price": 799.99,
+            "brand": "KitchenSmart",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/9"
+          },
+          {
+            "name": "Corner Shelf Organizer",
+            "description": "A space-saving corner shelf organizer for storing bottles and kitchen supplies.",
+            "price": 499.99,
+            "brand": "CornerSpace",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/10"
+          },
+          {
+            "name": "Multi-Compartment Cutlery Tray",
+            "description": "A multi-compartment cutlery tray for organizing your kitchen utensils.",
+            "price": 349.99,
+            "brand": "UtensilOrganize",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/11"
+          },
+          {
+            "name": "Plastic Food Storage Bins",
+            "description": "A set of durable plastic bins for organizing your kitchen pantry.",
+            "price": 249.99,
+            "brand": "PantryMate",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/12"
+          },
+          {
+            "name": "Expandable Dish Rack",
+            "description": "An expandable dish rack to accommodate large amounts of dishes after washing.",
+            "price": 799.99,
+            "brand": "RackMaster",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/13"
+          },
+          {
+            "name": "Bamboo Knife Block",
+            "description": "A bamboo knife block to safely store your knives and keep them organized.",
+            "price": 599.99,
+            "brand": "CutleryCraft",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/14"
+          },
+          {
+            "name": "Modular Pantry Storage System",
+            "description": "A modular pantry storage system that can be customized according to your needs.",
+            "price": 1599.99,
+            "brand": "ModularSpace",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/15"
+          },
+          {
+            "name": "Kitchen Cabinet Organizer Bins",
+            "description": "A set of organizer bins for arranging kitchen items inside cabinets.",
+            "price": 399.99,
+            "brand": "HomeStorage",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/16"
+          },
+          {
+            "name": "Drawer Divider Trays",
+            "description": "A set of adjustable drawer divider trays for organizing cutlery and small kitchen tools.",
+            "price": 199.99,
+            "brand": "DrawerOrganize",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/17"
+          },
+          {
+            "name": "Fruit Basket Stand",
+            "description": "A multi-tiered fruit basket stand for displaying fresh fruits in your kitchen.",
+            "price": 549.99,
+            "brand": "FruitEase",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/18"
+          },
+          {
+            "name": "Compact Kitchen Shelf Organizer",
+            "description": "A compact shelf organizer to store small kitchen items like bottles and cans.",
+            "price": 799.99,
+            "brand": "SmartShelf",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/19"
+          },
+          {
+            "name": "Under-Sink Organizer",
+            "description": "An under-sink organizer to store cleaning supplies and maximize cabinet space.",
+            "price": 699.99,
+            "brand": "SpaceSaver",
+            "inStock": true,
+            "images": "https://link-to-storage-image.com/20"
+          }
+        ]
+      },
+      {
+        "name": "Backware",
+        "subId": 26,
+        "products": [
+          {
+            "name": "Non-Stick Baking Sheet",
+            "description": "A high-quality non-stick baking sheet for baking cookies, pastries, and more.",
+            "price": 499.99,
+            "brand": "Baker's Delight",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/1"
+          },
+          {
+            "name": "Silicone Muffin Pan",
+            "description": "A flexible silicone muffin pan for easy removal and even baking.",
+            "price": 299.99,
+            "brand": "SiliconeBake",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/2"
+          },
+          {
+            "name": "Round Cake Pan Set",
+            "description": "A set of two round cake pans made of durable material for perfect cakes every time.",
+            "price": 599.99,
+            "brand": "PerfectBake",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/3"
+          },
+          {
+            "name": "Glass Pie Dish",
+            "description": "A clear glass pie dish for baking and serving your favorite pies.",
+            "price": 399.99,
+            "brand": "Glassware",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/4"
+          },
+          {
+            "name": "Baking Mat",
+            "description": "A reusable non-stick baking mat that eliminates the need for parchment paper.",
+            "price": 249.99,
+            "brand": "EcoBake",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/5"
+          },
+          {
+            "name": "Square Brownie Pan",
+            "description": "A durable square brownie pan for perfect homemade brownies.",
+            "price": 399.99,
+            "brand": "SweetBakes",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/6"
+          },
+          {
+            "name": "Loaf Pan Set",
+            "description": "A set of two loaf pans for baking bread, cakes, and other baked goods.",
+            "price": 499.99,
+            "brand": "BreadMaster",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/7"
+          },
+          {
+            "name": "Baking Sheet with Rim",
+            "description": "A rimmed baking sheet for easy handling and to prevent spills while baking.",
+            "price": 399.99,
+            "brand": "Baker's Best",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/8"
+          },
+          {
+            "name": "Pizza Stone",
+            "description": "A round pizza stone for making crispy homemade pizzas.",
+            "price": 799.99,
+            "brand": "StoneBake",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/9"
+          },
+          {
+            "name": "Muffin Tin",
+            "description": "A 12-cup muffin tin perfect for baking muffins and cupcakes.",
+            "price": 349.99,
+            "brand": "CupcakePro",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/10"
+          },
+          {
+            "name": "Tart Pan with Removable Bottom",
+            "description": "A tart pan with a removable bottom for easy removal of delicate tarts.",
+            "price": 449.99,
+            "brand": "TartDelight",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/11"
+          },
+          {
+            "name": "Baking Bundt Pan",
+            "description": "A non-stick bundt pan for perfectly shaped bundt cakes.",
+            "price": 599.99,
+            "brand": "BundtMaster",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/12"
+          },
+          {
+            "name": "Cake Decorating Turntable",
+            "description": "A rotating cake decorating turntable for smooth and even icing.",
+            "price": 799.99,
+            "brand": "BakeCraft",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/13"
+          },
+          {
+            "name": "Baking Pan Set with Lids",
+            "description": "A set of baking pans with matching lids to store your baked goods.",
+            "price": 699.99,
+            "brand": "Baker's Choice",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/14"
+          },
+          {
+            "name": "Non-Stick Pie Pan",
+            "description": "A non-stick pie pan designed for easy release of pies and pastries.",
+            "price": 399.99,
+            "brand": "PiePerfect",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/15"
+          },
+          {
+            "name": "Collapsible Cooling Rack",
+            "description": "A collapsible cooling rack for cooling your baked goods without taking up too much space.",
+            "price": 299.99,
+            "brand": "BakeEase",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/16"
+          },
+          {
+            "name": "Stainless Steel Rolling Pin",
+            "description": "A heavy-duty stainless steel rolling pin for smooth dough rolling.",
+            "price": 699.99,
+            "brand": "RollPro",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/17"
+          },
+          {
+            "name": "Springform Cake Pan",
+            "description": "A springform cake pan that allows for easy release of cakes and cheesecakes.",
+            "price": 499.99,
+            "brand": "CakeMaster",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/18"
+          },
+          {
+            "name": "Baking Cups",
+            "description": "A pack of baking cups for cupcakes, muffins, and more.",
+            "price": 199.99,
+            "brand": "CupcakeBakes",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/19"
+          },
+          {
+            "name": "Baking Spoon Set",
+            "description": "A set of silicone baking spoons for mixing and spreading ingredients.",
+            "price": 299.99,
+            "brand": "Baker's Choice",
+            "inStock": true,
+            "images": "https://link-to-bakeware-image.com/20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Makeup",
+    "section": "Beauty",
+    "sectionId": 5,
+
+    "subcategories": [
+      {
+        "name": "Face",
+        "subId": 27,
+        "products": [
+          {
+            "name": "Matte Foundation",
+            "description": "A long-lasting matte foundation that provides full coverage with a smooth finish.",
+            "price": 599.99,
+            "brand": "Maybelline",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/1"
+          },
+          {
+            "name": "Glow Primer",
+            "description": "A luminous primer that hydrates and creates a glowing base for makeup.",
+            "price": 399.99,
+            "brand": "L'Oréal",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/2"
+          },
+          {
+            "name": "Translucent Powder",
+            "description": "A lightweight translucent setting powder for a flawless finish.",
+            "price": 499.99,
+            "brand": "Huda Beauty",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/3"
+          },
+          {
+            "name": "BB Cream",
+            "description": "A tinted BB cream that offers light coverage while moisturizing the skin.",
+            "price": 299.99,
+            "brand": "Clinique",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/4"
+          },
+          {
+            "name": "Contouring Kit",
+            "description": "A contouring palette with shades to define and sculpt your face.",
+            "price": 799.99,
+            "brand": "Anastasia Beverly Hills",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/5"
+          },
+          {
+            "name": "Liquid Highlighter",
+            "description": "A liquid highlighter that gives a dewy, glowing finish to the skin.",
+            "price": 699.99,
+            "brand": "Benefit Cosmetics",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/6"
+          },
+          {
+            "name": "Bronzer Powder",
+            "description": "A buildable bronzer powder that adds warmth and depth to the face.",
+            "price": 499.99,
+            "brand": "Fenty Beauty",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/7"
+          },
+          {
+            "name": "Cream Blush",
+            "description": "A creamy blush that gives a natural flush of color to the cheeks.",
+            "price": 399.99,
+            "brand": "NARS",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/8"
+          },
+          {
+            "name": "Color Correcting Cream",
+            "description": "A color-correcting cream that helps neutralize redness and discoloration.",
+            "price": 799.99,
+            "brand": "Smashbox",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/9"
+          },
+          {
+            "name": "Face Setting Spray",
+            "description": "A hydrating face setting spray that locks makeup in place all day.",
+            "price": 599.99,
+            "brand": "Urban Decay",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/10"
+          },
+          {
+            "name": "Mineral Foundation",
+            "description": "A lightweight mineral foundation that provides natural-looking coverage.",
+            "price": 649.99,
+            "brand": "BareMinerals",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/11"
+          },
+          {
+            "name": "Face Concealer",
+            "description": "A full-coverage concealer that hides blemishes, dark circles, and imperfections.",
+            "price": 499.99,
+            "brand": "Tarte",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/12"
+          },
+          {
+            "name": "High Coverage Foundation Stick",
+            "description": "A high-coverage foundation stick that provides flawless, long-lasting coverage.",
+            "price": 799.99,
+            "brand": "Hourglass",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/13"
+          },
+          {
+            "name": "Setting Powder",
+            "description": "A finely milled powder that sets your makeup for a smooth, matte finish.",
+            "price": 549.99,
+            "brand": "Laura Mercier",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/14"
+          },
+          {
+            "name": "Illuminating Primer",
+            "description": "An illuminating primer that provides a radiant glow to the skin.",
+            "price": 699.99,
+            "brand": "Smashbox",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/15"
+          },
+          {
+            "name": "Pore Minimizing Primer",
+            "description": "A pore-minimizing primer that creates a smooth base for makeup application.",
+            "price": 599.99,
+            "brand": "Benefit Cosmetics",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/16"
+          },
+          {
+            "name": "Blush Palette",
+            "description": "A blush palette with multiple shades to suit every skin tone.",
+            "price": 799.99,
+            "brand": "Too Faced",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/17"
+          },
+          {
+            "name": "Shimmering Setting Spray",
+            "description": "A setting spray with a hint of shimmer that gives your makeup a glowing finish.",
+            "price": 599.99,
+            "brand": "Morphe",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/18"
+          },
+          {
+            "name": "Cream Contour Stick",
+            "description": "A cream contour stick that blends easily for sculpted and defined features.",
+            "price": 499.99,
+            "brand": "Kylie Cosmetics",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/19"
+          },
+          {
+            "name": "Foundation Brush",
+            "description": "A soft, dense brush designed for applying liquid or cream foundation.",
+            "price": 399.99,
+            "brand": "Real Techniques",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/20"
+          }
+        ]
+      },
+
+      {
+        "name": "Eyes",
+        "subId": 28,
+        "products": [
+          {
+            "name": "Waterproof Mascara",
+            "description": "A long-lasting waterproof mascara that defines and separates lashes.",
+            "price": 499.99,
+            "brand": "Maybelline",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/1"
+          },
+          {
+            "name": "Gel Eyeliner",
+            "description": "A smooth gel eyeliner that glides on easily and provides a bold, defined look.",
+            "price": 399.99,
+            "brand": "L'Oréal",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/2"
+          },
+          {
+            "name": "Liquid Eyeliner",
+            "description": "A liquid eyeliner with an ultra-fine tip for precision and long-lasting wear.",
+            "price": 499.99,
+            "brand": "Revlon",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/3"
+          },
+          {
+            "name": "Eyeshadow Palette",
+            "description": "A versatile eyeshadow palette with a range of matte and shimmer shades.",
+            "price": 799.99,
+            "brand": "Urban Decay",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/4"
+          },
+          {
+            "name": "False Eyelashes",
+            "description": "High-quality false eyelashes that add volume and length to natural lashes.",
+            "price": 299.99,
+            "brand": "Ardell",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/5"
+          },
+          {
+            "name": "Eyebrow Pencil",
+            "description": "A retractable eyebrow pencil that defines and shapes eyebrows with precision.",
+            "price": 349.99,
+            "brand": "Anastasia Beverly Hills",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/6"
+          },
+          {
+            "name": "Brow Gel",
+            "description": "A tinted brow gel that sets and defines brows for a natural finish.",
+            "price": 399.99,
+            "brand": "Benefit Cosmetics",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/7"
+          },
+          {
+            "name": "Eyeshadow Stick",
+            "description": "A creamy eyeshadow stick that glides on effortlessly and lasts all day.",
+            "price": 499.99,
+            "brand": "Bobbi Brown",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/8"
+          },
+          {
+            "name": "Eyelash Curler",
+            "description": "A high-quality eyelash curler that lifts and curls lashes for a wide-eyed look.",
+            "price": 399.99,
+            "brand": "Shu Uemura",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/9"
+          },
+          {
+            "name": "Colored Eyeliner",
+            "description": "A vibrant colored eyeliner available in multiple shades to add a pop of color.",
+            "price": 299.99,
+            "brand": "NYX",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/10"
+          },
+          {
+            "name": "Cream Eyeshadow",
+            "description": "A creamy eyeshadow formula that blends easily and offers a long-lasting finish.",
+            "price": 649.99,
+            "brand": "MAC Cosmetics",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/11"
+          },
+          {
+            "name": "Eyeshadow Primer",
+            "description": "An eyeshadow primer that creates a smooth base and ensures makeup stays put.",
+            "price": 499.99,
+            "brand": "Too Faced",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/12"
+          },
+          {
+            "name": "Eyeliner Pen",
+            "description": "A precision eyeliner pen with an ultra-fine tip for sharp, defined lines.",
+            "price": 399.99,
+            "brand": "Maybelline",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/13"
+          },
+          {
+            "name": "Eyelash Serum",
+            "description": "A nourishing eyelash serum that promotes longer, thicker lashes over time.",
+            "price": 799.99,
+            "brand": "Latisse",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/14"
+          },
+          {
+            "name": "Glitter Eyeshadow",
+            "description": "A sparkling glitter eyeshadow that adds a shimmering effect to any look.",
+            "price": 599.99,
+            "brand": "Stila",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/15"
+          },
+          {
+            "name": "Under Eye Concealer",
+            "description": "A creamy concealer designed to cover dark circles and brighten the under-eye area.",
+            "price": 349.99,
+            "brand": "NARS",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/16"
+          },
+          {
+            "name": "Brow Powder",
+            "description": "A soft brow powder that fills in and defines eyebrows for a natural look.",
+            "price": 499.99,
+            "brand": "Anastasia Beverly Hills",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/17"
+          },
+          {
+            "name": "Lash Primer",
+            "description": "A lash primer that enhances mascara performance and promotes longer lashes.",
+            "price": 399.99,
+            "brand": "Lancome",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/18"
+          },
+          {
+            "name": "Smudge-Proof Eyeliner",
+            "description": "A smudge-proof eyeliner that stays in place throughout the day without fading.",
+            "price": 499.99,
+            "brand": "Urban Decay",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/19"
+          },
+          {
+            "name": "Eyeshadow Brush Set",
+            "description": "A set of high-quality brushes designed for precise eyeshadow application.",
+            "price": 799.99,
+            "brand": "Sigma Beauty",
+            "inStock": true,
+            "images": "https://link-to-makeup-image.com/20"
+          }
+        ]
+      },
+
+      {
+        "name": "Lips",
+        "subId": 29,
+        "products": [
+          {
+            "name": "Matte Lipstick",
+            "description": "A long-lasting matte lipstick that provides bold color with a smooth finish.",
+            "price": 499.99,
+            "brand": "Maybelline",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/1"
+          },
+          {
+            "name": "Liquid Lipstick",
+            "description": "A liquid lipstick with vibrant color and a comfortable matte finish.",
+            "price": 699.99,
+            "brand": "Huda Beauty",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/2"
+          },
+          {
+            "name": "Lip Gloss",
+            "description": "A glossy lip formula that provides shine and a touch of color.",
+            "price": 399.99,
+            "brand": "Fenty Beauty",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/3"
+          },
+          {
+            "name": "Lip Balm",
+            "description": "A moisturizing lip balm that keeps lips soft and hydrated.",
+            "price": 199.99,
+            "brand": "Burt's Bees",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/4"
+          },
+          {
+            "name": "Lip Tint",
+            "description": "A lightweight lip tint that adds a natural flush of color to lips.",
+            "price": 299.99,
+            "brand": "Benefit Cosmetics",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/5"
+          },
+          {
+            "name": "Lip Crayon",
+            "description": "A creamy lip crayon that offers easy application and intense color.",
+            "price": 449.99,
+            "brand": "NARS",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/6"
+          },
+          {
+            "name": "Lip Liner",
+            "description": "A precise lip liner that defines and shapes lips for a perfect pout.",
+            "price": 299.99,
+            "brand": "MAC Cosmetics",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/7"
+          },
+          {
+            "name": "Plumping Lip Gloss",
+            "description": "A plumping lip gloss that enhances lips with volume and shine.",
+            "price": 499.99,
+            "brand": "Too Faced",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/8"
+          },
+          {
+            "name": "Hydrating Lipstick",
+            "description": "A moisturizing lipstick that provides color and hydration to dry lips.",
+            "price": 599.99,
+            "brand": "Charlotte Tilbury",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/9"
+          },
+          {
+            "name": "Sheer Lipstick",
+            "description": "A sheer lipstick that offers a subtle wash of color and a smooth finish.",
+            "price": 399.99,
+            "brand": "Clinique",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/10"
+          },
+          {
+            "name": "Lip Oil",
+            "description": "A nourishing lip oil that hydrates and adds a glossy finish to lips.",
+            "price": 499.99,
+            "brand": "Dior",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/11"
+          },
+          {
+            "name": "Matte Liquid Lipstick",
+            "description": "A full-coverage matte liquid lipstick with intense pigment and all-day wear.",
+            "price": 699.99,
+            "brand": "Smashbox",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/12"
+          },
+          {
+            "name": "Lip Plumper",
+            "description": "A lip plumper that gives lips a fuller appearance and a smooth finish.",
+            "price": 299.99,
+            "brand": "Buxom",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/13"
+          },
+          {
+            "name": "Tinted Lip Balm",
+            "description": "A tinted lip balm that provides a hint of color while moisturizing lips.",
+            "price": 249.99,
+            "brand": "Kiehl's",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/14"
+          },
+          {
+            "name": "Lipstick Set",
+            "description": "A set of mini lipsticks in various shades for a complete lip color collection.",
+            "price": 899.99,
+            "brand": "Sephora Collection",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/15"
+          },
+          {
+            "name": "Lip Stain",
+            "description": "A lip stain that gives lips a long-lasting flush of color.",
+            "price": 399.99,
+            "brand": "Tarte",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/16"
+          },
+          {
+            "name": "Cream Lipstick",
+            "description": "A creamy lipstick that offers full coverage and a smooth, hydrating finish.",
+            "price": 599.99,
+            "brand": "Yves Saint Laurent",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/17"
+          },
+          {
+            "name": "Matte Lip Cream",
+            "description": "A matte lip cream that delivers intense color with a velvety texture.",
+            "price": 549.99,
+            "brand": "NYX",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/18"
+          },
+          {
+            "name": "Lipstick with SPF",
+            "description": "A lipstick with SPF protection that keeps lips safe while offering vibrant color.",
+            "price": 399.99,
+            "brand": "Supergoop!",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/19"
+          },
+          {
+            "name": "Long-Lasting Lipstick",
+            "description": "A long-wear lipstick that stays in place without fading or feathering.",
+            "price": 499.99,
+            "brand": "Fenty Beauty",
+            "inStock": true,
+            "images": "https://link-to-lipstick-image.com/20"
+          }
+        ]
+      },
+      {
+        "name": "Nails",
+        "subId": 30,
+        "products": [
+          {
+            "name": "Gel Nail Polish",
+            "description": "A long-lasting gel nail polish that gives a glossy finish and smooth application.",
+            "price": 399.99,
+            "brand": "Sally Hansen",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/1"
+          },
+          {
+            "name": "Matte Nail Polish",
+            "description": "A nail polish with a matte finish for a trendy and modern look.",
+            "price": 299.99,
+            "brand": "OPI",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/2"
+          },
+          {
+            "name": "Nail Polish Remover",
+            "description": "A gentle nail polish remover that effectively removes polish without damaging nails.",
+            "price": 199.99,
+            "brand": "Essie",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/3"
+          },
+          {
+            "name": "Nail Strengthener",
+            "description": "A strengthening nail polish that helps repair and protect weak nails.",
+            "price": 349.99,
+            "brand": "Revlon",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/4"
+          },
+          {
+            "name": "Nail Art Stickers",
+            "description": "Fun and easy-to-use nail art stickers for a creative and personalized look.",
+            "price": 149.99,
+            "brand": "Kiss",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/5"
+          },
+          {
+            "name": "Top Coat Nail Polish",
+            "description": "A clear top coat that adds shine and prolongs the life of your manicure.",
+            "price": 249.99,
+            "brand": "Zoya",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/6"
+          },
+          {
+            "name": "Nail Polish Set",
+            "description": "A set of mini nail polishes in various shades for a complete collection.",
+            "price": 799.99,
+            "brand": "Sephora Collection",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/7"
+          },
+          {
+            "name": "Nail Glue",
+            "description": "Strong nail glue for fixing broken nails or applying nail art.",
+            "price": 129.99,
+            "brand": "Kiss",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/8"
+          },
+          {
+            "name": "Cuticle Oil",
+            "description": "A nourishing cuticle oil that keeps nails and cuticles hydrated.",
+            "price": 349.99,
+            "brand": "CND",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/9"
+          },
+          {
+            "name": "Nail Buffer",
+            "description": "A high-quality nail buffer that smooths and shines your nails.",
+            "price": 99.99,
+            "brand": "Tweezerman",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/10"
+          },
+          {
+            "name": "Nail Art Kit",
+            "description": "A complete nail art kit with tools and accessories for creating unique designs.",
+            "price": 599.99,
+            "brand": "Mia Secret",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/11"
+          },
+          {
+            "name": "Quick Dry Nail Polish",
+            "description": "A fast-drying nail polish that saves time while providing vibrant color.",
+            "price": 399.99,
+            "brand": "Essie",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/12"
+          },
+          {
+            "name": "Nail Polish Remover Pads",
+            "description": "Convenient nail polish remover pads that quickly remove polish without mess.",
+            "price": 249.99,
+            "brand": "Alba Botanica",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/13"
+          },
+          {
+            "name": "Glitter Nail Polish",
+            "description": "A sparkly glitter nail polish that adds glamour and shine to your nails.",
+            "price": 349.99,
+            "brand": "China Glaze",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/14"
+          },
+          {
+            "name": "Nail Polish Remover Wipes",
+            "description": "Pre-soaked wipes that remove nail polish easily and without the need for cotton balls.",
+            "price": 149.99,
+            "brand": "Sally Hansen",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/15"
+          },
+          {
+            "name": "Long Wear Nail Polish",
+            "description": "A nail polish formula that lasts longer and resists chipping.",
+            "price": 449.99,
+            "brand": "OPI",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/16"
+          },
+          {
+            "name": "Matte Top Coat",
+            "description": "A matte top coat that transforms any polish into a trendy matte finish.",
+            "price": 249.99,
+            "brand": "Essie",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/17"
+          },
+          {
+            "name": "Nail Care Kit",
+            "description": "A complete nail care kit with everything you need to keep your nails healthy.",
+            "price": 599.99,
+            "brand": "Revlon",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/18"
+          },
+          {
+            "name": "Nail Art Brushes",
+            "description": "A set of fine nail art brushes for detailed and intricate nail designs.",
+            "price": 299.99,
+            "brand": "Nicole Diary",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/19"
+          },
+          {
+            "name": "Chameleon Nail Polish",
+            "description": "A color-shifting chameleon nail polish that changes depending on the light.",
+            "price": 499.99,
+            "brand": "Sally Hansen",
+            "inStock": true,
+            "images": "https://link-to-nail-polish-image.com/20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wellness",
+    "section": "Beauty",
+    "sectionId": 5,
+
+    "subcategories": [
+      {
+        "name": "Sanitizer",
+        "subId": 31,
+        "products": [
+          {
+            "name": "Hand Sanitizer Gel",
+            "description": "A refreshing gel hand sanitizer that kills 99.9% of germs and bacteria.",
+            "price": 149.99,
+            "brand": "Dettol",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/1"
+          },
+          {
+            "name": "Instant Hand Sanitizer",
+            "description": "Quick-drying instant hand sanitizer with moisturizing properties.",
+            "price": 199.99,
+            "brand": "Purell",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/2"
+          },
+          {
+            "name": "Antibacterial Hand Sanitizer",
+            "description": "Antibacterial hand sanitizer with added aloe vera for soft hands.",
+            "price": 129.99,
+            "brand": "Lifebuoy",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/3"
+          },
+          {
+            "name": "Alcohol-based Hand Sanitizer",
+            "description": "Alcohol-based hand sanitizer that effectively eliminates harmful germs.",
+            "price": 249.99,
+            "brand": "Savlon",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/4"
+          },
+          {
+            "name": "Sanitizing Wipes",
+            "description": "Convenient sanitizing wipes for cleaning hands and surfaces on the go.",
+            "price": 199.99,
+            "brand": "Clorox",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/5"
+          },
+          {
+            "name": "Disinfecting Hand Spray",
+            "description": "A disinfecting spray that cleans hands and kills 99.9% of bacteria.",
+            "price": 159.99,
+            "brand": "Lysol",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/6"
+          },
+          {
+            "name": "Travel-sized Hand Sanitizer",
+            "description": "Portable hand sanitizer in a travel-friendly bottle, perfect for on-the-go use.",
+            "price": 89.99,
+            "brand": "Germ-X",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/7"
+          },
+          {
+            "name": "Natural Hand Sanitizer",
+            "description": "A natural hand sanitizer made with organic ingredients for a gentle touch.",
+            "price": 299.99,
+            "brand": "Burt's Bees",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/8"
+          },
+          {
+            "name": "Hand Sanitizer with Vitamin E",
+            "description": "A hand sanitizer enriched with Vitamin E to keep hands soft and germ-free.",
+            "price": 199.99,
+            "brand": "Himalaya",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/9"
+          },
+          {
+            "name": "Germ-Free Hand Spray",
+            "description": "A hand sanitizer spray that kills germs instantly and leaves no sticky residue.",
+            "price": 179.99,
+            "brand": "Dettol",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/10"
+          },
+          {
+            "name": "Sanitizing Hand Foam",
+            "description": "Foamy hand sanitizer that cleans hands effectively while leaving them soft.",
+            "price": 249.99,
+            "brand": "Sanitex",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/11"
+          },
+          {
+            "name": "Antibacterial Hand Gel",
+            "description": "Quick-drying antibacterial hand gel that kills germs on contact.",
+            "price": 159.99,
+            "brand": "Cleansing",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/12"
+          },
+          {
+            "name": "Organic Hand Sanitizer",
+            "description": "An organic hand sanitizer with 70% alcohol and essential oils for natural protection.",
+            "price": 399.99,
+            "brand": "Dr. Bronner's",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/13"
+          },
+          {
+            "name": "Portable Hand Sanitizer",
+            "description": "A portable hand sanitizer with a clip-on feature for easy carrying.",
+            "price": 109.99,
+            "brand": "Purell",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/14"
+          },
+          {
+            "name": "Nourishing Hand Sanitizer",
+            "description": "A hand sanitizer that nourishes and protects your skin while killing germs.",
+            "price": 229.99,
+            "brand": "Aloe Veda",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/15"
+          },
+          {
+            "name": "Herbal Hand Sanitizer",
+            "description": "A herbal-based hand sanitizer with natural ingredients to keep hands clean and refreshed.",
+            "price": 249.99,
+            "brand": "Patanjali",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/16"
+          },
+          {
+            "name": "Foaming Hand Wash & Sanitizer",
+            "description": "A dual-purpose foaming hand wash and sanitizer with a pleasant fragrance.",
+            "price": 299.99,
+            "brand": "Lifebuoy",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/17"
+          },
+          {
+            "name": "Alcohol-Free Hand Sanitizer",
+            "description": "A gentle hand sanitizer that is alcohol-free and safe for sensitive skin.",
+            "price": 169.99,
+            "brand": "Babyganics",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/18"
+          },
+          {
+            "name": "Germ-X Hand Sanitizer",
+            "description": "A trusted hand sanitizer that effectively fights germs and bacteria.",
+            "price": 199.99,
+            "brand": "Germ-X",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/19"
+          },
+          {
+            "name": "Disinfecting Hand Wipes",
+            "description": "Hand wipes that sanitize and disinfect, perfect for cleaning hands anywhere.",
+            "price": 169.99,
+            "brand": "Clorox",
+            "inStock": true,
+            "images": "https://link-to-sanitizer-image.com/20"
+          }
+        ]
+      },
+      {
+        "name": "Oral Care",
+        "subId": 32,
+        "products": [
+          {
+            "name": "Charcoal Whitening Toothpaste",
+            "description": "A whitening toothpaste with activated charcoal to remove stains and promote oral health.",
+            "price": 249.99,
+            "brand": "Colgate",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/1"
+          },
+          {
+            "name": "Cavity Protection Toothpaste",
+            "description": "Provides 24-hour cavity protection with a refreshing mint flavor.",
+            "price": 199.99,
+            "brand": "Sensodyne",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/2"
+          },
+          {
+            "name": "Whitening Toothpaste with Fluoride",
+            "description": "Toothpaste designed to help remove surface stains and protect against cavities.",
+            "price": 179.99,
+            "brand": "Oral-B",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/3"
+          },
+          {
+            "name": "Herbal Toothpaste",
+            "description": "A natural herbal toothpaste made with mint, neem, and other plant-based ingredients for a fresh clean.",
+            "price": 129.99,
+            "brand": "Patanjali",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/4"
+          },
+          {
+            "name": "Toothbrush with Soft Bristles",
+            "description": "A toothbrush with soft bristles to ensure gentle cleaning of teeth and gums.",
+            "price": 49.99,
+            "brand": "Colgate",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/5"
+          },
+          {
+            "name": "Electric Toothbrush",
+            "description": "A high-efficiency electric toothbrush with multiple brushing modes for deeper cleaning.",
+            "price": 999.99,
+            "brand": "Philips Sonicare",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/6"
+          },
+          {
+            "name": "Antibacterial Mouthwash",
+            "description": "A powerful mouthwash that kills 99.9% of bacteria and provides long-lasting fresh breath.",
+            "price": 349.99,
+            "brand": "Listerine",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/7"
+          },
+          {
+            "name": "Fluoride Mouthwash",
+            "description": "A fluoride-based mouthwash that helps strengthen teeth and prevent cavities.",
+            "price": 299.99,
+            "brand": "Sensodyne",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/8"
+          },
+          {
+            "name": "Whitening Mouthwash",
+            "description": "Mouthwash with a formula that helps whiten teeth while providing fresh breath.",
+            "price": 399.99,
+            "brand": "Oral-B",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/9"
+          },
+          {
+            "name": "Tooth Floss",
+            "description": "Dental floss designed to remove plaque between teeth and prevent gum disease.",
+            "price": 69.99,
+            "brand": "Oral-B",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/10"
+          },
+          {
+            "name": "Teeth Whitening Strips",
+            "description": "Easy-to-use teeth whitening strips that help remove stains and brighten your smile.",
+            "price": 499.99,
+            "brand": "Colgate",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/11"
+          },
+          {
+            "name": "Mouth Freshener Spray",
+            "description": "A convenient spray for a quick fresh breath boost anytime, anywhere.",
+            "price": 99.99,
+            "brand": "Breath Fresh",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/12"
+          },
+          {
+            "name": "Kids Toothpaste with Fluoride",
+            "description": "Fluoride toothpaste specifically designed for kids, with a mild flavor and safe formula.",
+            "price": 149.99,
+            "brand": "Pigeon",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/13"
+          },
+          {
+            "name": "Electric Toothbrush Head Replacement",
+            "description": "Replacement brush heads compatible with electric toothbrushes for effective cleaning.",
+            "price": 399.99,
+            "brand": "Philips Sonicare",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/14"
+          },
+          {
+            "name": "Sensitive Toothpaste",
+            "description": "Toothpaste formulated for sensitive teeth, offering protection and relief from discomfort.",
+            "price": 199.99,
+            "brand": "Sensodyne",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/15"
+          },
+          {
+            "name": "Natural Mouthwash",
+            "description": "A gentle mouthwash made from natural ingredients to provide a fresh, clean mouth.",
+            "price": 249.99,
+            "brand": "The Body Shop",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/16"
+          },
+          {
+            "name": "Orthodontic Toothbrush",
+            "description": "A specially designed toothbrush for braces, helping clean around brackets and wires.",
+            "price": 129.99,
+            "brand": "Oral-B",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/17"
+          },
+          {
+            "name": "Toothpaste for Whitening and Protection",
+            "description": "A toothpaste that removes surface stains while protecting against cavities and gum issues.",
+            "price": 249.99,
+            "brand": "Colgate",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/18"
+          },
+          {
+            "name": "Pro-Health Mouthwash",
+            "description": "A mouthwash that not only fights germs but also promotes overall oral health.",
+            "price": 329.99,
+            "brand": "Oral-B",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/19"
+          },
+          {
+            "name": "Gum Care Toothpaste",
+            "description": "Toothpaste specially designed to care for gums, reducing bleeding and inflammation.",
+            "price": 199.99,
+            "brand": "Sensodyne",
+            "inStock": true,
+            "images": "https://link-to-oral-care-image.com/20"
+          }
+        ]
+      }
+    ]
+},
+  {
+    "name": "Accessories",
+    "section": "Electronics",
+    "sectionId": 6,
+
+    "subcategories": [
+      {
+        "name": "Smartwatches",
+        "subId": 33,
+        "products":[
+          {
+            "name": "Apple Watch Series 8",
+            "description": "Advanced health monitoring and fitness tracking with ECG and blood oxygen sensors.",
+            "price": 399.99,
+            "brand": "Apple",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/1"
+          },
+          {
+            "name": "Samsung Galaxy Watch 5",
+            "description": "Water-resistant smartwatch with fitness tracking and LTE connectivity.",
+            "price": 299.99,
+            "brand": "Samsung",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/2"
+          },
+          {
+            "name": "Fitbit Versa 4",
+            "description": "Versatile fitness tracker with sleep analysis, heart rate monitoring, and built-in GPS.",
+            "price": 229.99,
+            "brand": "Fitbit",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/3"
+          },
+          {
+            "name": "Garmin Forerunner 255",
+            "description": "GPS smartwatch for runners with VO2 max monitoring and recovery advisor.",
+            "price": 349.99,
+            "brand": "Garmin",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/4"
+          },
+          {
+            "name": "Amazfit GTR 3 Pro",
+            "description": "High-definition AMOLED display with SpO2 measurement and 21-day battery life.",
+            "price": 179.99,
+            "brand": "Amazfit",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/5"
+          },
+          {
+            "name": "Huawei Watch GT 3",
+            "description": "Stunning design with health monitoring features and over 100 workout modes.",
+            "price": 249.99,
+            "brand": "Huawei",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/6"
+          },
+          {
+            "name": "TicWatch Pro 3",
+            "description": "Dual display technology with Wear OS, fitness tracking, and NFC payments.",
+            "price": 299.99,
+            "brand": "TicWatch",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/7"
+          },
+          {
+            "name": "OnePlus Watch",
+            "description": "Classic design with blood oxygen saturation monitoring and 14-day battery life.",
+            "price": 159.99,
+            "brand": "OnePlus",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/8"
+          },
+          {
+            "name": "Fossil Gen 6",
+            "description": "Stylish smartwatch with heart rate tracking, Google Assistant, and AMOLED display.",
+            "price": 299.99,
+            "brand": "Fossil",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/9"
+          },
+          {
+            "name": "Garmin Venu 2",
+            "description": "Health-focused smartwatch with sleep and stress tracking, animated workouts, and GPS.",
+            "price": 399.99,
+            "brand": "Garmin",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/10"
+          },
+          {
+            "name": "Suunto 7",
+            "description": "Rugged GPS sports watch with offline maps and wear OS compatibility.",
+            "price": 349.99,
+            "brand": "Suunto",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/11"
+          },
+          {
+            "name": "Withings ScanWatch",
+            "description": "Hybrid smartwatch with ECG and sleep apnea detection features.",
+            "price": 279.99,
+            "brand": "Withings",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/12"
+          },
+          {
+            "name": "Amazfit Bip U Pro",
+            "description": "Affordable smartwatch with SpO2, stress monitoring, and built-in GPS.",
+            "price": 69.99,
+            "brand": "Amazfit",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/13"
+          },
+          {
+            "name": "Realme Watch S",
+            "description": "Budget-friendly smartwatch with heart rate and blood oxygen monitoring.",
+            "price": 59.99,
+            "brand": "Realme",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/14"
+          },
+          {
+            "name": "Honor Watch GS Pro",
+            "description": "Rugged outdoor smartwatch with long battery life and SpO2 monitoring.",
+            "price": 199.99,
+            "brand": "Honor",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/15"
+          },
+          {
+            "name": "Xiaomi Mi Watch",
+            "description": "Versatile smartwatch with SpO2 tracking and 16-day battery life.",
+            "price": 129.99,
+            "brand": "Xiaomi",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/16"
+          },
+          {
+            "name": "OPPO Watch",
+            "description": "Wear OS-powered smartwatch with dual curved display and fitness tracking.",
+            "price": 229.99,
+            "brand": "OPPO",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/17"
+          },
+          {
+            "name": "Noise ColorFit Pro 3",
+            "description": "Affordable smartwatch with blood oxygen monitoring and multiple sports modes.",
+            "price": 49.99,
+            "brand": "Noise",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/18"
+          },
+          {
+            "name": "boAt Watch Xtend",
+            "description": "Budget smartwatch with stress monitoring, SpO2 tracking, and Alexa integration.",
+            "price": 39.99,
+            "brand": "boAt",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/19"
+          },
+          {
+            "name": "Timex iConnect Premium",
+            "description": "Classic design with sleep tracking, heart rate monitoring, and notifications.",
+            "price": 89.99,
+            "brand": "Timex",
+            "inStock": true,
+            "images": "https://link-to-smartwatch-image.com/20"
+          }
+        ]
+        
+      },
+      {
+        "name": "Mobile Holder",
+        "subId": 34,
+        "products":[
+          {
+            "name": "Universal Car Phone Mount",
+            "description": "Secure, adjustable car mount compatible with most smartphones.",
+            "price": 15.99,
+            "brand": "iOttie",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/1"
+          },
+          {
+            "name": "Magnetic Dashboard Mount",
+            "description": "Compact magnetic phone mount for easy access on the road.",
+            "price": 12.99,
+            "brand": "Scosche",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/2"
+          },
+          {
+            "name": "Adjustable Gooseneck Holder",
+            "description": "Flexible gooseneck phone holder for bed or desk use.",
+            "price": 18.99,
+            "brand": "Lamicall",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/3"
+          },
+          {
+            "name": "Bike Phone Mount",
+            "description": "Durable phone mount for bikes, adjustable to fit most handlebars.",
+            "price": 14.99,
+            "brand": "Roam",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/4"
+          },
+          {
+            "name": "360° Rotating Car Phone Holder",
+            "description": "Air vent clip with 360° rotation for hands-free driving.",
+            "price": 9.99,
+            "brand": "Mpow",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/5"
+          },
+          {
+            "name": "Foldable Desktop Stand",
+            "description": "Compact, foldable phone stand for desks, with adjustable angle.",
+            "price": 8.99,
+            "brand": "OMOTON",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/6"
+          },
+          {
+            "name": "Windshield Suction Mount",
+            "description": "Suction mount for easy attachment to windshield or dashboard.",
+            "price": 16.99,
+            "brand": "Belkin",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/7"
+          },
+          {
+            "name": "Cup Holder Phone Mount",
+            "description": "Adjustable base to fit most car cup holders, stable grip.",
+            "price": 13.99,
+            "brand": "TOPGO",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/8"
+          },
+          {
+            "name": "Magnetic Air Vent Mount",
+            "description": "Simple magnetic mount for quick phone access in the car.",
+            "price": 11.99,
+            "brand": "WizGear",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/9"
+          },
+          {
+            "name": "Desk Clamp Phone Holder",
+            "description": "Strong clamp for stable phone positioning on desks or tables.",
+            "price": 20.99,
+            "brand": "Viozon",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/10"
+          },
+          {
+            "name": "Ring Grip Stand",
+            "description": "Ring grip holder that doubles as a phone stand.",
+            "price": 7.99,
+            "brand": "Spigen",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/11"
+          },
+          {
+            "name": "Magnetic Phone Car Mount",
+            "description": "Powerful magnet to securely hold phones on dashboards.",
+            "price": 10.99,
+            "brand": "AUKEY",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/12"
+          },
+          {
+            "name": "Tabletop Adjustable Stand",
+            "description": "Sturdy phone stand with adjustable height and angle.",
+            "price": 9.99,
+            "brand": "LISEN",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/13"
+          },
+          {
+            "name": "PopSocket Grip",
+            "description": "Expandable grip for secure phone handling and stand capability.",
+            "price": 9.99,
+            "brand": "PopSocket",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/14"
+          },
+          {
+            "name": "Wireless Charging Car Mount",
+            "description": "Phone mount with integrated wireless charging capability.",
+            "price": 25.99,
+            "brand": "CHOETECH",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/15"
+          },
+          {
+            "name": "Adjustable Neck Phone Holder",
+            "description": "Hands-free neck holder for convenient phone viewing.",
+            "price": 14.99,
+            "brand": "B-Land",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/16"
+          },
+          {
+            "name": "Dashboard Anti-Slip Holder",
+            "description": "Anti-slip mat holder for phones on car dashboards.",
+            "price": 6.99,
+            "brand": "Husky",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/17"
+          },
+          {
+            "name": "Bedside Phone Mount",
+            "description": "Adjustable clamp mount for hands-free viewing in bed.",
+            "price": 18.99,
+            "brand": "Tryone",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/18"
+          },
+          {
+            "name": "Clip-On Car Sun Visor Mount",
+            "description": "Simple clip-on holder for car sun visors, easy to install.",
+            "price": 8.99,
+            "brand": "Beam Electronics",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/19"
+          },
+          {
+            "name": "Multi-Angle Desktop Stand",
+            "description": "Desk stand with adjustable viewing angles, sturdy build.",
+            "price": 10.99,
+            "brand": "Anker",
+            "inStock": true,
+            "images": "https://link-to-holder-image.com/20"
+          }
+        ]
+        
+      }
+    ]
+}
+ 
+]

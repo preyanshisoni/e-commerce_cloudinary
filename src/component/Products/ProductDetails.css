@@ -1,0 +1,119 @@
+
+    .main-div-details {
+        margin-top: 60px;
+        margin-left: 80px;
+        display: flex;
+        gap: 50px;
+        padding: 20px;
+      }
+      
+      .product-image {
+        margin-left: 50px;
+        width: 400px;
+        height: 600px;
+      }
+      
+      .thumbnail-gallery {
+        
+        
+        display: flex;
+        flex-direction: column;
+        gap:20px;
+        margin-top: 10px;
+      }
+      
+      
+      
+      
+      .thumbnail {
+        
+        transition: border 0.2s, transform 0.2s;
+        width: 60px;
+        height: 60px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      .thumbnail.active {
+        border: 2px solid grey; 
+        transform: scale(1.1); 
+      }
+     
+      .product-details-container {
+        width: 400px;
+        height: 500px;
+        
+        
+      }
+      .sizes{
+        margin-top: 9px;
+      }
+      .product-description{
+        position: relative;
+        top:-14px;
+        font-size: 15px;
+        color: rgb(102, 98, 98);
+        
+      }
+      .product-details-container h2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+        color: #333;
+      }
+      
+      .product-rating {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 10px;
+      }
+      
+      .rating-score {
+        background-color: #4CAF50;
+        color: white;
+        padding: 4px 8px;
+        border-radius: 4px;
+      }
+      
+      .star-icon {
+        color: #FFD700;
+      }
+      
+      .rating-count {
+        font-size: 14px;
+        color: #666;
+      }
+      
+      .delivery-info {
+        font-size: 14px;
+        color: #00c853;
+        margin-bottom: 20px;
+      }
+      
+      .product-details-container h3 {
+        font-size: 20px;
+        color: #333;
+        margin-bottom: 20px;
+      }
+      
+      .product-actions {
+        display: flex;
+        gap: 10px;
+      }
+      
+      .add-to-cart-btn, .buy-now-btn {
+        font-size: 16px;
+        padding: 5px 10px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      
+      .add-to-cart-btn {
+        background-color: #007bff;
+        color: white;
+      }
+      
+      .buy-now-btn {
+        background-color: #28a745;
+        color: white;
+      }
